@@ -16,7 +16,7 @@ Made by Andy Revell (MD/PhD student at Penn)    ![Octocat](https://github.github
 | [sub-RID0583](./renders/sub-RID0583/index.html) | [sub-RID0595](./renders/sub-RID0595/index.html) | [sub-RID0596](./renders/sub-RID0596/index.html) | 
 | [sub-RID0536](./renders/sub-RID0536/index.html) | [sub-RID0520](./renders/sub-RID0520/index.html) | [sub-RID0508](./renders/sub-RID0508/index.html) | 
 | in progress                                     |                                                 |                                                 | 
-| [sub-RID0502](./renders/sub-RID0502/index.html) | [sub-RID0490](./renders/sub-RID0520/index.html) | [sub-RID0454](./renders/sub-RID0508/index.html) | 
+| [sub-RID0502](./renders/sub-RID0502/index.html) | [sub-RID0490](./renders/sub-RID0490/index.html) | [sub-RID0454](./renders/sub-RID0454/index.html) | 
 
 # About
 
