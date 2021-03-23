@@ -73,10 +73,12 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 # Metadata
 
 
-| Subjects| Implant        |  Sampling  |                                
+| Subjects| Implant     |  Sampling  |                                
 | :------ | :---------- | :--------- | 
 | RID0278 | SEEG        | bilateral  |
 | RID0365 | SEEG        | bilateral  |
+| RID0490 | SEEG        | bilateral  |
+| RID0502 | SEEG        | bilateral  |
 | RID0508 | SEEG        | left       |
 | RID0520 | SEEG + ECoG | left       |                                  
 | RID0536 | SEEG        | bilateral  |
