@@ -40,11 +40,15 @@ WHITE: OUTSIDE (or not localized to any area)
 
 
 #### Note on channel tissue localization:
-The tissue type corresponding to each channel is determined by the SINGLE voxel the channel coordinate is in, and thus subject to errors (i.e. a specific voxel is determined to be WM through the FIRST and FAST FSL algorithms. The channel is localized to that voxel. However, all surrounding voxels happen to be GM. It could be assumed then that the tissue type of that particular channel was determined to be wrong in this case - because all surrounding voxels of that channel is GM). The FIRST and FAST algorithms have a smoothing factor to lessen this issue. Please take this into consideration when relying on the specifc tissue type of each channel when interpreting these localizations. See the image below for an overview of the localization procedure: 
+The tissue type corresponding to each channel is determined by the SINGLE voxel the channel coordinate is in, and thus subject to errors.
+
+Example: a specific voxel is determined to be WM through the FIRST and FAST FSL algorithms (see figure below). The channel is localized to that voxel. However, all surrounding voxels happen to be GM. It could be assumed then that the tissue type of that particular channel was determined to be wrong in this case - because all surrounding voxels of that channel is GM. 
+
+The FIRST and FAST algorithms have a smoothing factor to mitigate this issue to some extent. Please take this into consideration when relying on the specifc tissue type of each channel when interpreting these localizations. See this image below for an overview of the localization procedure: 
 
 ![aboutImage](./pics/localization_v01.png)
 
-Each channel is localized to a specific tissue type shown by the figure above. (1) A CT is acquired of the implantation. (2) The coordinates of each channel is determined through our clinical localization pipeline, and registered to an implant image (3) and a preimplant image (4). Using the preimplant image, tissue type is determined using FSL's FIRST and FAST algorithms. Output of the cortical segmentation (FAST) is shown in (5) and output of the subcortical segmentation (FIRST) is shown in (6). These images are combined (7). The electrode coordinates are determined in preimplant space using FSL's linear registration (not non-linear - the figure is wrong here and will be updated). The exact coordinate of the electrode channel is matched to a voxel in the tissue segmentation combined image (7) and thus the type of tissue the channel is sampling from is determined. WARNING: This method does not consider surrounding voxels, and thus a channel may be erroneously determined to be sampling from the wrong tissue in rare cases.
+Figure legend: Electrode localization and Tissue Segmentation. Each channel is localized to a specific tissue type shown by the figure above. (1) A CT is acquired of the implantation. (2) The coordinates of each channel is determined through our clinical localization pipeline, and registered to an implant image (3) and a preimplant image (4). Using the preimplant image, tissue type is determined using FSL's FIRST and FAST algorithms. Output of the cortical segmentation (FAST) is shown in (5) and output of the subcortical segmentation (FIRST) is shown in (6). These images are combined (7). The electrode coordinates are determined in preimplant space using FSL's linear registration (not non-linear - the figure is wrong here and will be updated). The exact coordinate of the electrode channel is matched to a voxel in the tissue segmentation combined image (7) and thus the type of tissue the channel is sampling from is determined. WARNING: This method does not consider surrounding voxels, and thus a channel may be erroneously determined to be sampling from the wrong tissue in rare cases.
 
 
 # Metadata
@@ -96,7 +100,7 @@ See [revellLab GitHub repository electrodeLocalization.py](https://github.com/an
 	- Data needed:
 		- Pre-implant T1 image. 
 		- Preferably at 3T
-		- Preferably using our high resolution 3T research protocol (not all patient acquire)
+		- Preferably using our high resolution 3T research protocol (not all patients acquire this image)
 	- Software needed:
 		- Freesurfer
 		- Blender 3.9
