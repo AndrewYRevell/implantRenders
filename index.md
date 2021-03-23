@@ -26,6 +26,24 @@ These renders show implantations of epilepsy patients. You can adjust your view 
 
 
 
+# Metadata
+
+
+| Subjects    | Type        |  Sampling  |                                
+| :---------- | :---------- | :--------- | 
+| sub-RID0278 | SEEG        | bilateral  |
+| sub-RID0365 | SEEG        | bilateral  |
+| sub-RID0520 | SEEG + ECoG | left       |                                  
+| sub-RID0536 | SEEG        | bilateral  |
+| sub-RID0572 | SEEG        | right      |
+| sub-RID0583 | SEEG        | left       | 
+| sub-RID0595 | SEEG        | left       |
+| sub-RID0596 | SEEG        | left       |
+
+
+SEEG: Stereoelectroencephalography ("toothpicks")
+ECoG: Electrocorticography ("grids and strips")
+
 
 
 
