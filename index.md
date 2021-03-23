@@ -42,6 +42,7 @@ These renders show implantations of epilepsy patients. You can adjust your view 
 
 
 SEEG: Stereoelectroencephalography ("toothpicks")
+
 ECoG: Electrocorticography ("grids and strips")
 
 
