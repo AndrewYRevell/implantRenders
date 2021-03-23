@@ -13,7 +13,7 @@ Made by Andy Revell (MD/PhD student at Penn)    ![Octocat](https://github.github
 | Subjects                                    |
 | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  |
 | RID0031                                     | RID0037                                     | RID0046                                     | RID0089                                     | RID0131                                     |
-| RID0139                                     | RID0146                                     | RID0186                                     | RID0194                                     | RID0206                                     |
+| [RID0139](./renders/sub-RID0139/index.html) | RID0146                                     | RID0186                                     | RID0194                                     | RID0206                                     |
 | RID0213                                     | RID0218                                     | RID0230                                     | RID0238                                     | RID0240                                     |              
 | RID0241                                     | RID0250                                     | RID0252                                     | RID0259                                     | RID0267                                     |
 | RID0272                                     | RID0274                                     | [RID0278](./renders/sub-RID0278/index.html) | RID0279                                     | RID0280                                     |
@@ -23,7 +23,7 @@ Made by Andy Revell (MD/PhD student at Penn)    ![Octocat](https://github.github
 | RID0341                                     | RID0356                                     | RID0357                                     | [RID0365](./renders/sub-RID0365/index.html) | RID0371                                     |     
 | RID0380                                     | RID0381                                     | RID0382                                     | RID0385                                     | RID0386                                     |  
 | RID0392                                     | RID0394                                     | RID0405                                     | RID0412                                     | RID0420                                     | 
-| RID0424                                     | RID0440                                     | RID0442                                     | RID0452                                     | [RID0454](./renders/sub-RID0464/index.html) | 
+| RID0424                                     | RID0440                                     | RID0442                                     | RID0452                                     | [RID0454](./renders/sub-RID0454/index.html) | 
 | RID0459                                     | RID0472                                     | RID0475                                     | RID0476                                     | [RID0490](./renders/sub-RID0490/index.html) |    
 | [RID0502](./renders/sub-RID0502/index.html) | [RID0508](./renders/sub-RID0508/index.html) | RID0517                                     | [RID0520](./renders/sub-RID0520/index.html) | RID0522                                     |
 | RID0522                                     | RID0529                                     | RID0530                                     | [RID0536](./renders/sub-RID0536/index.html) | RID0560                                     |
@@ -77,6 +77,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | :------ | :---------- | :--------- | 
 | RID0278 | SEEG        | bilateral  |
 | RID0365 | SEEG        | bilateral  |
+| RID0454 | SEEG        | bilateral  |
 | RID0490 | SEEG        | bilateral  |
 | RID0502 | SEEG        | bilateral  |
 | RID0508 | SEEG        | left       |
@@ -118,7 +119,7 @@ ECoG: Electrocorticography ("grids and strips")
 
 See [revellLab GitHub repository electrodeLocalization.py](https://github.com/andyrevell/revellLab/blob/main/packages/imaging/electrodeLocalization/electrodeLocalization.py) for example pipeline
 
-1. Creation of brain 3D model
+1. Step 1: Creation of brain 3D model
 	- Data needed:
 		- Pre-implant T1 image. 
 		- Preferably at 3T
@@ -128,11 +129,11 @@ See [revellLab GitHub repository electrodeLocalization.py](https://github.com/an
 		- Blender 3.9
 		- Python 3.7+
 		- Script blender_compress_mesh.py from [revellLab GitHub repository](https://github.com/andyrevell/revellLab)
-	- Step 1: Cortical surface reconstruction of brain 
+	- Step 1.1: Cortical surface reconstruction of brain 
 		- Software: Freesurfer
 		- Command: recon-all -subjid ### -all -time -log logfile -nuintensitycor-3T -sd ### -parallel -threads 12
 		- Takes about 1.5-2hrs for Andy's computer (AMD Ryzen 9 3900X 12-Core Processor, 64 GB RAM, Titan RTX GPU)
-	- Step 2: Make 3D model
+	- Step 1.2: Make 3D model
 		- Convert lh.pial and rh.pial to scanner T1 space
 			- Freesurfer command: mris_convert --to-scanner lh.pial lh.pial
 		- Combine lh.pial and rh.pial AND convert to .stl 3D model file
@@ -142,7 +143,7 @@ See [revellLab GitHub repository electrodeLocalization.py](https://github.com/an
 			- Use python script blender_compress_mesh.py from [revellLab GitHub repository](https://github.com/andyrevell/revellLab/blob/main/packages/imaging/electrodeLocalization/blender_compress_mesh.py)
 			- Command: blender --background --factory-startup --addons io_scene_gltf2 --python blender_compress_mesh.py -- -i combined.stl -o brain.glb
 			
-2. Get implantation coordinates
+2. Step 2: Get implantation coordinates
 	- Data needed:
 		- Pre-implant T1 image (from above)
 		- Coordinates in the pre-implant T1 space above
@@ -151,17 +152,17 @@ See [revellLab GitHub repository electrodeLocalization.py](https://github.com/an
 	- Software needed:
 		- FSL
 		- Python 3.7+
-	- Step 1: Register the pre-implant T1 image to the T1 image the coordinate file is in - skip if they are the same
+	- Step 2.1: Register the pre-implant T1 image to the T1 image the coordinate file is in - skip if they are the same
 		- Brain extract the images using FSL bet
 		- Linear registration of the two images using FSL flirt
 		- Apply the returned tranformation matrix from flirt to the coordinate file
 			- FSL command: img2imgcoord -src ### -dest ### -xfm ### -mm ### > ###
 			- See FSL's documentation of img2imgcoord for specific data sctructures files must be in
-	- Step 2: Save coordinates in same location as the brain.glb file, name it electrodes.txt
+	- Step 2.2: Save coordinates in same location as the brain.glb file, name it electrodes.txt
 		- electrodes.txt format
 			- each row contains channel information. Column 1: Channel name; Column 2: x coordinate; Column 3: y coordinate; Column 4: z coordinate
 			- Separation is a single space between columns (not comma or tab separated)
-3. Get necessary files in single directory:
+3. Step 3: Get necessary files in single directory:
 	- See [example](https://github.com/andyrevell/implantRenders/tree/main/renders/sub-RID0278) 
 	- File names:
 		- brain.glb
