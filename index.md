@@ -29,7 +29,7 @@ These renders show implantations of epilepsy patients. You can adjust your view 
 # Metadata
 
 
-| Subjects    | Type        |  Sampling  |                                
+| Subjects    | Implant        |  Sampling  |                                
 | :---------- | :---------- | :--------- | 
 | sub-RID0278 | SEEG        | bilateral  |
 | sub-RID0365 | SEEG        | bilateral  |
