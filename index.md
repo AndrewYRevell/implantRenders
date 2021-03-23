@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png) Made by Andy Revell (MD/PhD student at Penn)
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)   Made by Andy Revell (MD/PhD student at Penn)
 
 
 # Implant Links
@@ -18,7 +18,19 @@ layout: default
 
 # About
 
-To do: Full description of methods
+
+
+
+
+
+
+# Methods
+
+### Visual
+
+
+
+### Bullet Point Methods
 
 See [revellLab GitHub repository electrodeLocalization.py](https://github.com/andyrevell/revellLab/blob/main/packages/imaging/electrodeLocalization/electrodeLocalization.py) for example pipeline
 
