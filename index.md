@@ -2,16 +2,18 @@
 layout: default
 ---
 
-Click to view implant:
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 
 
-| ID                                              | Updated    | | ID                                              | Updated    | | ID                                              | Updated    | | ID                                              | Updated    | 
-|:------------------------------------------------|:----------:| |:------------------------------------------------|:----------:| |:------------------------------------------------|:----------:| |:------------------------------------------------|:----------:|
-| [sub-RID0278](./renders/sub-RID0278/index.html) | 2021/03/22 | | [sub-RID0583](./renders/sub-RID0583/index.html) | 2021/03/23 | |                                                 |            | |                                                 |            |
-| [sub-RID0365](./renders/sub-RID0365/index.html) | 2021/03/22 | | [sub-RID0595](./renders/sub-RID0595/index.html) | 2021/03/23 | |                                                 |            | |                                                 |            |
-| [sub-RID0572](./renders/sub-RID0572/index.html) | 2021/03/23 | | [sub-RID0596](./renders/sub-RID0596/index.html) | 2021/03/23 | |                                                 |            | |                                                 |            |
+# Implant Links
+
+**Click to view implant:**
+
+
+|                                                 |                                                 |                                                   |
+|:------------------------------------------------|:------------------------------------------------| :------------------------------------------------ |
+| [sub-RID0278](./renders/sub-RID0278/index.html) | [sub-RID0365](./renders/sub-RID0365/index.html) | | [sub-RID0572](./renders/sub-RID0572/index.html) | 
+| [sub-RID0583](./renders/sub-RID0583/index.html) | [sub-RID0595](./renders/sub-RID0595/index.html) | | [sub-RID0596](./renders/sub-RID0596/index.html) | 
 
 
 
