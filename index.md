@@ -18,7 +18,7 @@ Made by Andy Revell (MD/PhD student at Penn)    ![Octocat](https://github.github
 
 # About
 
-These renders show implantations of epilepsy patients. You can adjust your view using your mouse and control settings (see below image). Click on "Channels" to see the channel label names. Spheres represent implnated electrode channels. The center of each sphere corresponds to the coordinate of each channel. Each spehere is arbitrarily 2.2 mm in radius.
+These renders show implantations of epilepsy patients. Implantations were done for clinical purposes and to capture seizure activity. Click on the subject links in the table above to view the renders. You can adjust your view using your mouse and control settings (see below image). Click on "Channels" to see the channel label names. Spheres represent implnated electrode channels. The center of each sphere corresponds to the coordinate of each channel. Each spehere is arbitrarily 2.2 mm in radius.
 
 The coordinates of each channel is localized to specific brain tissue: gray matter (GM), white matter (WM), cerebrospinal fluid (CSF), or outside the brain area. 
 
