@@ -56,6 +56,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | :---------- | :---------- | :--------- | 
 | sub-RID0278 | SEEG        | bilateral  |
 | sub-RID0365 | SEEG        | bilateral  |
+| sub-RID0508 | SEEG        | left       |
 | sub-RID0520 | SEEG + ECoG | left       |                                  
 | sub-RID0536 | SEEG        | bilateral  |
 | sub-RID0572 | SEEG        | right      |
