@@ -1,109 +1,149 @@
-# The Slate theme
+---
+layout: default
+---
 
-[![Build Status](https://travis-ci.org/pages-themes/slate.svg?branch=master)](https://travis-ci.org/pages-themes/slate) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-slate.svg)](https://badge.fury.io/rb/jekyll-theme-slate)
+Made by Andy Revell (MD/PhD student at Penn)    ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-*Slate is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/slate), or even [use it today](#usage).*
 
-![Thumbnail of Slate](thumbnail.png)
+# Implant Links
 
-## Usage
+**Click to view implant:**
 
-To use the Slate theme:
 
-1. Add the following to your site's `_config.yml`:
+| Subjects                                        |                                                 |                                                 |
+| :---------------------------------------------  | :---------------------------------------------  | :---------------------------------------------  |
+| [sub-RID0278](./renders/sub-RID0278/index.html) | [sub-RID0365](./renders/sub-RID0365/index.html) | [sub-RID0572](./renders/sub-RID0572/index.html) | 
+| [sub-RID0583](./renders/sub-RID0583/index.html) | [sub-RID0595](./renders/sub-RID0595/index.html) | [sub-RID0596](./renders/sub-RID0596/index.html) | 
+| [sub-RID0536](./renders/sub-RID0536/index.html) | [sub-RID0520](./renders/sub-RID0520/index.html) |                                                 | 
 
-    ```yml
-    theme: jekyll-theme-slate
-    ```
+# About
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
+These renders show implantations of epilepsy patients. You can adjust your view using your mouse and control settings (see below image). Click on "Channels" to see the channel label names.
 
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
+![aboutImage](./pics/about.png)
 
-## Customizing
 
-### Configuration variables
 
-Slate will respect the following variables, if set in your site's `_config.yml`:
 
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
-```
 
-Additionally, you may choose to set the following optional variables:
+# Metadata
 
-```yml
-show_downloads: ["true" or "false" to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
 
-### Stylesheet
+| Subjects    | Implant        |  Sampling  |                                
+| :---------- | :---------- | :--------- | 
+| sub-RID0278 | SEEG        | bilateral  |
+| sub-RID0365 | SEEG        | bilateral  |
+| sub-RID0520 | SEEG + ECoG | left       |                                  
+| sub-RID0536 | SEEG        | bilateral  |
+| sub-RID0572 | SEEG        | right      |
+| sub-RID0583 | SEEG        | left       | 
+| sub-RID0595 | SEEG        | left       |
+| sub-RID0596 | SEEG        | left       |
 
-If you'd like to add your own custom styles:
 
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
+SEEG: Stereoelectroencephalography ("toothpicks")
 
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+ECoG: Electrocorticography ("grids and strips")
 
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
 
-### Layouts
 
-If you'd like to change the theme's HTML layout:
 
-1. [Copy the original template](https://github.com/pages-themes/slate/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-2. Create a file called `/_layouts/default.html` in your site
-3. Paste the default layout content copied in the first step
-4. Customize the layout as you'd like
 
-### Overriding GitHub-generated URLs
 
-Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
 
-1. Look at [the template source](https://github.com/pages-themes/slate/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
-2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
-    ```yml
-    github:
-      zip_url: http://example.com/download.zip
-      another_url: another value
-    ```
-3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
+# Methods
 
-*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
 
-For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
 
-## Roadmap
 
-See the [open issues](https://github.com/pages-themes/slate/issues) for a list of proposed features (and known issues).
 
-## Project philosophy
 
-The Slate theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+### Visual
 
-## Contributing
+![visualMethodsImage](./pics/visualMethods.png)
 
-Interested in contributing to Slate? We'd love your help. Slate is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
 
-### Previewing the theme locally
 
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
 
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/slate`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
 
-### Running tests
 
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` one before the test script will work.
+### Bullet Point Methods
+
+See [revellLab GitHub repository electrodeLocalization.py](https://github.com/andyrevell/revellLab/blob/main/packages/imaging/electrodeLocalization/electrodeLocalization.py) for example pipeline
+
+1. Creation of brain 3D model
+	- Data needed:
+		- Pre-implant T1 image. 
+		- Preferably at 3T
+		- Preferably using our high resolution 3T research protocol (not all patient acquire)
+	- Software needed:
+		- Freesurfer
+		- Blender 3.9
+		- Python 3.7+
+		- Script blender_compress_mesh.py from [revellLab GitHub repository](https://github.com/andyrevell/revellLab)
+	- Step 1: Cortical surface reconstruction of brain 
+		- Software: Freesurfer
+		- Command: recon-all -subjid ### -all -time -log logfile -nuintensitycor-3T -sd ### -parallel -threads 12
+		- Takes about 1.5-2hrs for Andy's computer (AMD Ryzen 9 3900X 12-Core Processor, 64 GB RAM, Titan RTX GPU)
+	- Step 2: Make 3D model
+		- Convert lh.pial and rh.pial to scanner T1 space
+			- Freesurfer command: mris_convert --to-scanner lh.pial lh.pial
+		- Combine lh.pial and rh.pial AND convert to .stl 3D model file
+			- reesurfer command: mris_convert --combinesurfs rh.pial lh.pial combined.stl
+		- Convert to .stl to .glb file (To render on webpage using three.js)
+			- Software: Blender 3.9
+			- Use python script from [revellLab GitHub repository](https://github.com/andyrevell/revellLab)
+				- /packages/imaging/electrodeLocalization/blender_compress_mesh.py
+			- Command: blender --background --factory-startup --addons io_scene_gltf2 --python blender_compress_mesh.py -- -i combined.stl -o brain.glb
+			
+2. Get implantation coordinates
+	- Data needed:
+		- Pre-implant T1 image (from above)
+		- Coordinates in the pre-implant T1 space above
+			- If coordinates in a different space, need the corresponding T1 image and register the pre-implant T1 image above
+		- Optional: output of [atlas localization pipeline](https://github.com/andyrevell/revellLab/blob/main/packages/atlasLocalization/atlasLocalization.py) to get tissue localization information of implant channels
+	- Software needed:
+		- FSL
+		- Python 3.7+
+	- Step 1: Register the pre-implant T1 image to the T1 image the coordinate file is in - skip if they are the same
+		- Brain extract the images using FSL bet
+		- Linear registration of the two images using FSL flirt
+		- Apply the returned tranformation matrix from flirt to the coordinate file
+			- FSL command: img2imgcoord -src ### -dest ### -xfm ### -mm ### > ###
+			- See FSL's documentation of img2imgcoord for specific data sctructures files must be in
+	- Step 2: Save coordinates in same location as the brain.glb file, name it electrodes.txt
+		- electrodes.txt format
+			- each row contains channel information. Column 1: Channel name; Column 2: x coordinate; Column 3: y coordinate; Column 4: z coordinate
+			- Separation is a single space between columns (not comma or tab separated)
+3. Get necessary files in single directory:
+	- See [example](https://github.com/andyrevell/implantRenders/tree/main/renders/sub-RID0278) 
+	- File names:
+		- brain.glb
+		- electrodes.txt
+		- index.html [Get here]( https://github.com/andyrevell/revellLab/blob/main/tools/threejs/index.html)  
+	- These three files are all you need, and the html file should work provided you name the .glb and .txt files accordingly
+	- To run on local computer, follow [these directions](https://threejs.org/docs/#manual/en/introduction/How-to-run-things-locally) 
+		- I installed npm: npm install http-server -g (I forget if you need this to run the python -m http.server below)
+		- python -m http.server
+		- Type this into browser (I used Chrome, Firefox, and Microsoft Edge): http://localhost:8000/
+		- The reason why you need the above is because web browser restrict loading of the 3D .glb files locally for security reasons.
+				
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
