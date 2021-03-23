@@ -18,6 +18,38 @@ Made by Andy Revell (MD/PhD student at Penn)    ![Octocat](https://github.github
 | in progress                                     |                                                 |                                                 | 
 | [sub-RID0502](./renders/sub-RID0502/index.html) | [sub-RID0490](./renders/sub-RID0490/index.html) | [sub-RID0454](./renders/sub-RID0454/index.html) | 
 
+| [sub-RID0031]()                                 | [sub-RID0037](./renders/sub-RID0502/index.html) | [sub-RID0046](./renders/sub-RID0502/index.html) | 
+| [sub-RID0089](./renders/sub-RID0502/index.html) | [sub-RID0131](./renders/sub-RID0502/index.html) | [sub-RID0139](./renders/sub-RID0502/index.html) | 
+| [sub-RID0146](./renders/sub-RID0502/index.html) | [sub-RID0186](./renders/sub-RID0502/index.html) | [sub-RID0194](./renders/sub-RID0502/index.html) | 
+| [sub-RID0206](./renders/sub-RID0502/index.html) | [sub-RID0213](./renders/sub-RID0502/index.html) | [sub-RID0218](./renders/sub-RID0502/index.html) | 
+| [sub-RID0230](./renders/sub-RID0502/index.html) | [sub-RID0238](./renders/sub-RID0502/index.html) | [sub-RID0240](./renders/sub-RID0502/index.html) | 
+| [sub-RID0241](./renders/sub-RID0502/index.html) | [sub-RID0250](./renders/sub-RID0502/index.html) | [sub-RID0252](./renders/sub-RID0502/index.html) | 
+| [sub-RID0259](./renders/sub-RID0502/index.html) | [sub-RID0267](./renders/sub-RID0502/index.html) | [sub-RID0272](./renders/sub-RID0502/index.html) | 
+| [sub-RID0274](./renders/sub-RID0502/index.html) | [sub-RID0278](./renders/sub-RID0502/index.html) | [sub-RID0279](./renders/sub-RID0502/index.html) | 
+| [sub-RID0280](./renders/sub-RID0502/index.html) | [sub-RID0295](./renders/sub-RID0502/index.html) | [sub-RID0296](./renders/sub-RID0502/index.html) | 
+| [sub-RID0307](./renders/sub-RID0502/index.html) | [sub-RID0309](./renders/sub-RID0502/index.html) | [sub-RID0317](./renders/sub-RID0502/index.html) | 
+| [sub-RID0320](./renders/sub-RID0502/index.html) | [sub-RID0322](./renders/sub-RID0502/index.html) | [sub-RID0325](./renders/sub-RID0502/index.html) | 
+| [sub-RID0328](./renders/sub-RID0502/index.html) | [sub-RID0329](./renders/sub-RID0502/index.html) | [sub-RID0330](./renders/sub-RID0502/index.html) | 
+| [sub-RID0332](./renders/sub-RID0502/index.html) | [sub-RID0334](./renders/sub-RID0502/index.html) | [sub-RID0337](./renders/sub-RID0502/index.html) | 
+| [sub-RID0338](./renders/sub-RID0502/index.html) | [sub-RID0341](./renders/sub-RID0502/index.html) | [sub-RID0356](./renders/sub-RID0502/index.html) | 
+| [sub-RID0357](./renders/sub-RID0502/index.html) | [sub-RID0365](./renders/sub-RID0502/index.html) | [sub-RID0371](./renders/sub-RID0502/index.html) | 
+| [sub-RID0380](./renders/sub-RID0502/index.html) | [sub-RID0381](./renders/sub-RID0502/index.html) | [sub-RID0382](./renders/sub-RID0502/index.html) | 
+| [sub-RID0385](./renders/sub-RID0502/index.html) | [sub-RID0386](./renders/sub-RID0502/index.html) | [sub-RID0392](./renders/sub-RID0502/index.html) | 
+| [sub-RID0394](./renders/sub-RID0502/index.html) | [sub-RID0405](./renders/sub-RID0502/index.html) | [sub-RID0412](./renders/sub-RID0502/index.html) | 
+| [sub-RID0420](./renders/sub-RID0502/index.html) | [sub-RID0424](./renders/sub-RID0502/index.html) | [sub-RID0440](./renders/sub-RID0502/index.html) | 
+| [sub-RID0442](./renders/sub-RID0502/index.html) | [sub-RID0452](./renders/sub-RID0502/index.html) | [sub-RID0454](./renders/sub-RID0502/index.html) | 
+| [sub-RID0459](./renders/sub-RID0502/index.html) | [sub-RID0472](./renders/sub-RID0502/index.html) | [sub-RID0475](./renders/sub-RID0502/index.html) | 
+| [sub-RID0476](./renders/sub-RID0502/index.html) | [sub-RID0490](./renders/sub-RID0502/index.html) | [sub-RID0502](./renders/sub-RID0502/index.html) | 
+| [sub-RID0508](./renders/sub-RID0502/index.html) | [sub-RID0517](./renders/sub-RID0502/index.html) | [sub-RID0520](./renders/sub-RID0502/index.html) | 
+| [sub-RID0522](./renders/sub-RID0502/index.html) | [sub-RID0529](./renders/sub-RID0502/index.html) | [sub-RID0530](./renders/sub-RID0502/index.html) | 
+| [sub-RID0536](./renders/sub-RID0502/index.html) | [sub-RID0560](./renders/sub-RID0502/index.html) | [sub-RID0562](./renders/sub-RID0502/index.html) | 
+| [sub-RID0566](./renders/sub-RID0502/index.html) | [sub-RID0572](./renders/sub-RID0502/index.html) | [sub-RID0582](./renders/sub-RID0502/index.html) | 
+| [sub-RID0583](./renders/sub-RID0502/index.html) | [sub-RID0588](./renders/sub-RID0502/index.html) | [sub-RID0589](./renders/sub-RID0502/index.html) | 
+| [sub-RID0595](./renders/sub-RID0502/index.html) | [sub-RID0596](./renders/sub-RID0502/index.html) | [sub-RID0646](./renders/sub-RID0502/index.html) | 
+| [sub-RID0647](./renders/sub-RID0502/index.html) | [sub-RID0648](./renders/sub-RID0502/index.html) | [sub-RID0649](./renders/sub-RID0502/index.html) | 
+| [sub-RID0650](./renders/sub-RID0502/index.html) | [sub-RID0651](./renders/sub-RID0502/index.html) | [sub-RID0652](./renders/sub-RID0502/index.html) | 
+
+
 # About
 
 These renders show implantations of epilepsy patients. Implantations were done for clinical purposes and to capture seizure activity. Click on the subject links in the table above to view the renders. You can adjust your view using your mouse and control settings (see below image). Click on "Channels" to see the channel label names. Spheres represent implanted electrode channels. The center of each sphere corresponds to the coordinate of each channel. Each spehere is arbitrarily 2.2 mm in radius. The coordinates of each channel is localized to specific brain tissue: gray matter (GM), white matter (WM), cerebrospinal fluid (CSF), or outside the brain area. 
