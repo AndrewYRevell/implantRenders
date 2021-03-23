@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Made by Andy Revell (MD/PhD student at Penn)  ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+Made by Andy Revell (MD/PhD student at Penn)    ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
 # Implant Links
@@ -18,6 +18,7 @@ Made by Andy Revell (MD/PhD student at Penn)  ![Octocat](https://github.githubas
 
 # About
 
+These renders show implantations of epilepsy patients. You can adjust your view using your mouse and control settings (see below image). Click on "Channels" to see the channel label names.
 
 ![aboutImage](./pics/about.png)
 
