@@ -115,8 +115,7 @@ See [revellLab GitHub repository electrodeLocalization.py](https://github.com/an
 			- reesurfer command: mris_convert --combinesurfs rh.pial lh.pial combined.stl
 		- Convert to .stl to .glb file (To render on webpage using three.js)
 			- Software: Blender 3.9
-			- Use python script from [revellLab GitHub repository](https://github.com/andyrevell/revellLab)
-				- /packages/imaging/electrodeLocalization/blender_compress_mesh.py
+			- Use python script blender_compress_mesh.py from [revellLab GitHub repository](https://github.com/andyrevell/revellLab/blob/main/packages/imaging/electrodeLocalization/blender_compress_mesh.py)
 			- Command: blender --background --factory-startup --addons io_scene_gltf2 --python blender_compress_mesh.py -- -i combined.stl -o brain.glb
 			
 2. Get implantation coordinates
