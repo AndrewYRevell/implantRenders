@@ -23,11 +23,30 @@ These renders show implantations of epilepsy patients. You can adjust your view 
 ![aboutImage](./pics/about.png)
 
 
+
+
+
+
+
+
+
+
+
 # Methods
+
+
+
+
+
 
 ### Visual
 
 ![visualMethodsImage](./pics/visualMethods.png)
+
+
+
+
+
 
 ### Bullet Point Methods
 
