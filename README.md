@@ -17,7 +17,10 @@ Made by Andy Revell (MD/PhD student at Penn)    ![Octocat](https://github.github
 
 These renders show implantations of epilepsy patients. You can adjust your view using your mouse and control settings (see below image). Click on "Channels" to see the channel label names.
 
+
 ![aboutImage](./pics/about.png)
+
+
 
 
 

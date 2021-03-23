@@ -20,6 +20,20 @@ Made by Andy Revell (MD/PhD student at Penn)    ![Octocat](https://github.github
 
 These renders show implantations of epilepsy patients. You can adjust your view using your mouse and control settings (see below image). Click on "Channels" to see the channel label names.
 
+
+####Tissue Channel localization
+The coordinates of each channel is localized to specific brain tissue: gray matter (GM), white matter (WM), cerebrospinal fluid (CSF), or outside the brain area. 
+
+Colored spheres correspond to these areas:
+<span style="color:red">RED</span>: GM
+<span style="color:blue">BLUE</span>: WM
+<span style="color:purple">PURPLE</span>: CSF
+WHITE: OUTSIDE (or not localized to any areas)
+ 
+
+Note on channel tissue localization:
+
+
 ![aboutImage](./pics/about.png)
 
 
