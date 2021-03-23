@@ -73,17 +73,17 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 # Metadata
 
 
-| Subjects    | Implant        |  Sampling  |                                
-| :---------- | :---------- | :--------- | 
-| sub-RID0278 | SEEG        | bilateral  |
-| sub-RID0365 | SEEG        | bilateral  |
-| sub-RID0508 | SEEG        | left       |
-| sub-RID0520 | SEEG + ECoG | left       |                                  
-| sub-RID0536 | SEEG        | bilateral  |
-| sub-RID0572 | SEEG        | right      |
-| sub-RID0583 | SEEG        | left       | 
-| sub-RID0595 | SEEG        | left       |
-| sub-RID0596 | SEEG        | left       |
+| Subjects| Implant        |  Sampling  |                                
+| :------ | :---------- | :--------- | 
+| RID0278 | SEEG        | bilateral  |
+| RID0365 | SEEG        | bilateral  |
+| RID0508 | SEEG        | left       |
+| RID0520 | SEEG + ECoG | left       |                                  
+| RID0536 | SEEG        | bilateral  |
+| RID0572 | SEEG        | right      |
+| RID0583 | SEEG        | left       | 
+| RID0595 | SEEG        | left       |
+| RID0596 | SEEG        | left       |
 
 
 SEEG: Stereoelectroencephalography ("toothpicks")
