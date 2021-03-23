@@ -2,30 +2,14 @@
 layout: default
 ---
 
-Click to view implant:
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| [sub-RID0278](./renders/sub-RID0278/index.html)           | [sub-RID0365](./renders/sub-RID0365/index.html) | [sub-RID0572](./renders/sub-RID0572/index.html)  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-
-[sub-RID0596](./renders/sub-RID0596/index.html)
-
-[sub-RID0595](./renders/sub-RID0595/index.html)
-
-[sub-RID0583](./renders/sub-RID0583/index.html)
-
-[sub-RID0572](./renders/sub-RID0572/index.html)
-
-[sub-RID0365](./renders/sub-RID0365/index.html)
-
-[sub-RID0278](./renders/sub-RID0278/index.html)
+[sub-RID0596](./renders/sub-RID0596/index.html).
+[sub-RID0595](./renders/sub-RID0595/index.html).
+[sub-RID0583](./renders/sub-RID0583/index.html).
+[sub-RID0572](./renders/sub-RID0572/index.html).
+[sub-RID0365](./renders/sub-RID0365/index.html).
+[sub-RID0278](./renders/sub-RID0278/index.html).
 
 There should be whitespace between paragraphs.
 
