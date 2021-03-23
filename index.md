@@ -19,16 +19,14 @@ Made by Andy Revell (MD/PhD student at Penn)  ![Octocat](https://github.githubas
 # About
 
 
-
-
-
+![aboutImage](./pics/about.png)
 
 
 # Methods
 
 ### Visual
 
-
+![visualMethodsImage](./pics/visualMethods.png)
 
 ### Bullet Point Methods
 
