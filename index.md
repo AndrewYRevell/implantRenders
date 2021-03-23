@@ -61,7 +61,7 @@ WHITE: OUTSIDE (or not localized to any area)
 #### Note on channel tissue localization:
 The tissue type corresponding to each channel is determined by the SINGLE voxel the channel coordinate is in, and thus subject to errors.
 
-Example: a specific voxel is determined to be GM through the FIRST and FAST FSL algorithms (see figure below). The channel is localized to that voxel. However, all surrounding voxels happen to be WM. It could be assumed then that the tissue type of that particular channel was determined to be wrong in this case - because all surrounding voxels of that channel are WM. 
+Example: a specific voxel is determined to be GM through the FIRST and FAST FSL algorithms (see figure below). The channel is localized to that voxel. However, all surrounding voxels happen to be WM. It could be assumed then that the tissue type of that particular channel was determined to be wrong in this case - because all surrounding voxels of that channel are WM. Furthermore, tissue localization for ECoG (grids and strips) may not be necessarily correct. They can be assumed to be in CSF overlaid on GM cortical structures.
 
 The FIRST and FAST algorithms have a smoothing factor to mitigate this issue to some extent. Please take this into consideration when relying on the specifc tissue type of each channel when interpreting these localizations. See this image below for an overview of the localization procedure: 
 
