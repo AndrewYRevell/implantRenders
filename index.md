@@ -18,26 +18,33 @@ Made by Andy Revell (MD/PhD student at Penn)    ![Octocat](https://github.github
 
 # About
 
-These renders show implantations of epilepsy patients. You can adjust your view using your mouse and control settings (see below image). Click on "Channels" to see the channel label names.
+These renders show implantations of epilepsy patients. You can adjust your view using your mouse and control settings (see below image). Click on "Channels" to see the channel label names. Spheres represent implnated electrode channels. The center of each sphere corresponds to the coordinate of each channel. Each spehere is arbitrarily 2.2 mm in radius.
 
-
-####Tissue Channel localization
 The coordinates of each channel is localized to specific brain tissue: gray matter (GM), white matter (WM), cerebrospinal fluid (CSF), or outside the brain area. 
 
 Colored spheres correspond to these areas:
+
 <span style="color:red">RED</span>: GM
+
 <span style="color:blue">BLUE</span>: WM
+
 <span style="color:purple">PURPLE</span>: CSF
-WHITE: OUTSIDE (or not localized to any areas)
+
+WHITE: OUTSIDE (or not localized to any area)
  
-
-Note on channel tissue localization:
-
 
 ![aboutImage](./pics/about.png)
 
 
 
+
+
+#### Note on channel tissue localization:
+The tissue type corresponding to each channel is determined by the SINGLE voxel the channel coordinate is in, and thus subject to errors (i.e. a specific voxel is determined to be WM through the FIRST and FAST FSL algorithms. The channel is localized to that voxel. However, all surrounding voxels happen to be GM. It could be assumed then that the tissue type of that particular channel was determined to be wrong in this case - because all surrounding voxels of that channel is GM). The FIRST and FAST algorithms have a smoothing factor to lessen this issue. Please take this into consideration when relying on the specifc tissue type of each channel when interpreting these localizations. See the image below for an overview of the localization procedure: 
+
+![aboutImage](./pics/localization_v01.png)
+
+Each channel is localized to a specific tissue type shown by the figure above. (1) A CT is acquired of the implantation. (2) The coordinates of each channel is determined through our clinical localization pipeline, and registered to an implant image (3) and a preimplant image (4). Using the preimplant image, tissue type is determined using FSL's FIRST and FAST algorithms. Output of the cortical segmentation (FAST) is shown in (5) and output of the subcortical segmentation (FIRST) is shown in (6). These images are combined (7). The electrode coordinates are determined in preimplant space using FSL's linear registration (not non-linear - the figure is wrong here and will be updated). The exact coordinate of the electrode channel is matched to a voxel in the tissue segmentation combined image (7) and thus the type of tissue the channel is sampling from is determined. WARNING: This method does not consider surrounding voxels, and thus a channel may be erroneously determined to be sampling from the wrong tissue in rare cases.
 
 
 # Metadata
