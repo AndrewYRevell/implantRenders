@@ -7,6 +7,8 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 
 <img src="./pics/londonPhone18.png" width="150">  
 
+_What information is included in this webpage: (1) brain surface 3D model, (2) channel xyz coordinates, (3) channel labels (e.g. LA1), and (4) anonymized subject IDs._
+
 # Implant Links
 
 
@@ -15,7 +17,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 | Subjects                                    |
 | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  |
 | [RID0031](./renders/sub-RID0031/index.html) | RID0037                                     | RID0046                                     | RID0089                                     | [RID0131](./renders/sub-RID0131/index.html) |
-| [RID0139](./renders/sub-RID0139/index.html) | RID0146                                     | [RID0186](./renders/sub-RID0186/index.html) | RID0194                                     | RID0206                                     |
+| [RID0139](./renders/sub-RID0139/index.html) | RID0146                                     | [RID0186*](./renders/sub-RID0186/index.html) | RID0194                                     | RID0206                                     |
 | [RID0213](./renders/sub-RID0213/index.html) | RID0218                                     | RID0230                                     | RID0238                                     | RID0240                                     |
 | RID0241                                     | RID0250                                     | RID0252                                     | RID0259                                     | RID0267                                     |
 | RID0272                                     | RID0274                                     | [RID0278](./renders/sub-RID0278/index.html) | [RID0279](./renders/sub-RID0279/index.html) | RID0280                                     |
@@ -28,14 +30,14 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 | RID0424                                     | [RID0440](./renders/sub-RID0440/index.html) | RID0442                                     | RID0452                                     | [RID0454](./renders/sub-RID0454/index.html) | 
 | [RID0459](./renders/sub-RID0459/index.html) | RID0472                                     | RID0475                                     | RID0476                                     | [RID0490](./renders/sub-RID0490/index.html) |    
 | [RID0502](./renders/sub-RID0502/index.html) | [RID0508](./renders/sub-RID0508/index.html) | RID0517                                     | [RID0520](./renders/sub-RID0520/index.html) | [RID0522](./renders/sub-RID0522/index.html) |
-| RID0529                                     | RID0530                                     | [RID0536](./renders/sub-RID0536/index.html) | RID0560                                     | RID0562                                     |
+| [RID0529](./renders/sub-RID0529/index.html) | RID0530                                     | [RID0536](./renders/sub-RID0536/index.html) | RID0560                                     | RID0562                                     |
 | RID0566                                     | [RID0572](./renders/sub-RID0572/index.html) | RID0582                                     | [RID0583](./renders/sub-RID0583/index.html) | RID0588                                     |
 | RID0589                                     | [RID0595](./renders/sub-RID0595/index.html) | [RID0596](./renders/sub-RID0596/index.html) | RID0646                                     | RID0647                                     |
 | [RID0648](./renders/sub-RID0648/index.html) | RID0649                                     | RID0650                                     | RID0651                                     | RID0652                                     |
 
+*Surface reconstruction failed in Freesurfer. Using MNI template. Can be due to low quality clinical imaging and/or diffuse pathology.
 
 
-_What information is included in this webpage: (1) brain surface 3D model, (2) channel xyz coordinates, (3) channel labels (e.g. LA1), and (4) anonymized subject IDs._
 
 # About
 
