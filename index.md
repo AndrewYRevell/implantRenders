@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-**_No identifying patient information is present._** _What is included: brain surface 3D model, channel xyz coordinates, channel labels (e.g. LA1), and anonymized subject IDs. This webpage is intended to help view and navigate the implants in 3D space only._
+**_No identifying patient information is present._** _This webpage is intended to help view and navigate intracranial EEG implants in 3D space only._
 
 Made by Andrew Revell (Fifth-year MD/PhD student at Penn): 
 
@@ -35,7 +35,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 
 
 
-
+_What information is included in this webpage: (1) brain surface 3D model, (2) channel xyz coordinates, (3) channel labels (e.g. LA1), and (4) anonymized subject IDs_
 
 # About
 
