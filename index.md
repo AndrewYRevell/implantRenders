@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+_No identifying information is present_
 
 Made by Andy Revell (Fifth-year MD/PhD student at Penn): 
 
@@ -8,7 +9,6 @@ Made by Andy Revell (Fifth-year MD/PhD student at Penn):
 
 # Implant Links
 
-_No identifying information is present_
 
 **Click to view implant:**
 
@@ -92,7 +92,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | RID0502 | SEEG        | bilateral  | research 3T protocol      |
 | RID0508 | SEEG        | left       | research 3T protocol      |
 | RID0520 | SEEG + ECoG | left       | research 3T protocol      | 
-| RID0522 |  |        | research 3T protocol      |                                 
+| RID0522 | SEEG        | right      | research 3T protocol      |                                 
 | RID0536 | SEEG        | bilateral  | research 3T protocol      |
 | RID0572 | SEEG        | right      | research 3T protocol      |
 | RID0583 | SEEG        | left       | research 3T protocol      | 
