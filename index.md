@@ -73,23 +73,23 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 # Metadata
 
 
-| Subjects| Implant     |  Sampling  |                                
-| :------ | :---------- | :--------- | 
-| RID0139 | SEEG        | bilateral  |
-| RID0213 | ECoG        | bilateral  |
-| RID0278 | SEEG        | bilateral  |
-| RID0365 | SEEG        | bilateral  |
-| RID0454 | SEEG        | bilateral  |
-| RID0490 | SEEG        | bilateral  |
-| RID0502 | SEEG        | bilateral  |
-| RID0508 | SEEG        | left       |
-| RID0520 | SEEG + ECoG | left       |                                  
-| RID0536 | SEEG        | bilateral  |
-| RID0572 | SEEG        | right      |
-| RID0583 | SEEG        | left       | 
-| RID0595 | SEEG        | left       |
-| RID0596 | SEEG        | left       |
-| RID0648 | SEEG        | left       |
+| Subjects| Implant     |  Sampling  | T1 scan used for surface  |                                
+| :------ | :---------- | :--------- | :------------------------ |
+| RID0139 | SEEG        | bilateral  | research 3T protocol      |
+| RID0213 | ECoG        | bilateral  | research 3T protocol      |
+| RID0278 | SEEG        | bilateral  | research 3T protocol      |
+| RID0365 | SEEG        | bilateral  | research 3T protocol      |
+| RID0454 | SEEG        | bilateral  | research 3T protocol      |
+| RID0490 | SEEG        | bilateral  | research 3T protocol      |
+| RID0502 | SEEG        | bilateral  | research 3T protocol      |
+| RID0508 | SEEG        | left       | research 3T protocol      |
+| RID0520 | SEEG + ECoG | left       | research 3T protocol      |                                 
+| RID0536 | SEEG        | bilateral  | research 3T protocol      |
+| RID0572 | SEEG        | right      | research 3T protocol      |
+| RID0583 | SEEG        | left       | research 3T protocol      | 
+| RID0595 | SEEG        | left       | research 3T protocol      |
+| RID0596 | SEEG        | left       | research 3T protocol      |
+| RID0648 | SEEG        | left       | research 3T protocol      |
 
 SEEG: Stereoelectroencephalography ("toothpicks")
 
