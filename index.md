@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Rendering of intracranial EEG (iEEG) implantations in epilepsy patients.
+Made by Andy Revell (Fifth-year MD/PhD student at Penn) ![aboutImage](./pics/londonPhone18.png)
 
 # Implant Links
 
