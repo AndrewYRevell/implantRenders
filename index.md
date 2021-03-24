@@ -28,7 +28,7 @@ _No identifying information is present_
 | RID0424                                     | [RID0440](./renders/sub-RID0440/index.html) | RID0442                                     | RID0452                                     | [RID0454](./renders/sub-RID0454/index.html) | 
 | RID0459                                     | RID0472                                     | RID0475                                     | RID0476                                     | [RID0490](./renders/sub-RID0490/index.html) |    
 | [RID0502](./renders/sub-RID0502/index.html) | [RID0508](./renders/sub-RID0508/index.html) | RID0517                                     | [RID0520](./renders/sub-RID0520/index.html) | RID0522                                     |
-| RID0522                                     | RID0529                                     | RID0530                                     | [RID0536](./renders/sub-RID0536/index.html) | RID0560                                     |
+| [RID0522](./renders/sub-RID0522/index.html) | RID0529                                     | RID0530                                     | [RID0536](./renders/sub-RID0536/index.html) | RID0560                                     |
 | RID0562                                     | RID0566                                     | [RID0572](./renders/sub-RID0572/index.html) | RID0582                                     | [RID0583](./renders/sub-RID0583/index.html) |
 | RID0588                                     | RID0589                                     | [RID0595](./renders/sub-RID0595/index.html) | [RID0596](./renders/sub-RID0596/index.html) | RID0646                                     |
 | RID0647                                     | [RID0648](./renders/sub-RID0648/index.html) | RID0649                                     | RID0650                                     | RID0651                                     |
@@ -91,7 +91,8 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | RID0490 | SEEG        | bilateral  | research 3T protocol      |
 | RID0502 | SEEG        | bilateral  | research 3T protocol      |
 | RID0508 | SEEG        | left       | research 3T protocol      |
-| RID0520 | SEEG + ECoG | left       | research 3T protocol      |                                 
+| RID0520 | SEEG + ECoG | left       | research 3T protocol      | 
+| RID0522 |  |        | research 3T protocol      |                                 
 | RID0536 | SEEG        | bilateral  | research 3T protocol      |
 | RID0572 | SEEG        | right      | research 3T protocol      |
 | RID0583 | SEEG        | left       | research 3T protocol      | 
@@ -129,7 +130,7 @@ ECoG: Electrocorticography ("grids and strips")
 
 See [revellLab GitHub repository electrodeLocalization.py](https://github.com/andyrevell/revellLab/blob/main/packages/imaging/electrodeLocalization/electrodeLocalization.py) for example pipeline
 
-1. Step 1: Creation of brain 3D model
+1. **Step 1: Creation of brain 3D model**
 	- Data needed:
 		- Pre-implant T1 image. 
 		- Preferably at 3T
@@ -153,7 +154,7 @@ See [revellLab GitHub repository electrodeLocalization.py](https://github.com/an
 			- Use python script blender_compress_mesh.py from [revellLab GitHub repository](https://github.com/andyrevell/revellLab/blob/main/packages/imaging/electrodeLocalization/blender_compress_mesh.py)
 			- Command: blender --background --factory-startup --addons io_scene_gltf2 --python blender_compress_mesh.py -- -i combined.stl -o brain.glb
 			
-2. Step 2: Get implantation coordinates
+2. **Step 2: Get implantation coordinates**
 	- Data needed:
 		- Pre-implant T1 image (from above)
 		- Coordinates in the pre-implant T1 space above
@@ -172,7 +173,7 @@ See [revellLab GitHub repository electrodeLocalization.py](https://github.com/an
 		- electrodes.txt format
 			- each row contains channel information. Column 1: Channel name; Column 2: x coordinate; Column 3: y coordinate; Column 4: z coordinate
 			- Separation is a single space between columns (not comma or tab separated)
-3. Step 3: Get necessary files in single directory:
+3. **Step 3: Get necessary files in single directory:**
 	- See [example](https://github.com/andyrevell/implantRenders/tree/main/renders/sub-RID0278) 
 	- File names:
 		- brain.glb
