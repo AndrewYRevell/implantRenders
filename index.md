@@ -29,8 +29,8 @@ Made by Andy Revell (MD/PhD student at Penn)    ![Octocat](https://github.github
 | RID0522                                     | RID0529                                     | RID0530                                     | [RID0536](./renders/sub-RID0536/index.html) | RID0560                                     |
 | RID0562                                     | RID0566                                     | [RID0572](./renders/sub-RID0572/index.html) | RID0582                                     | [RID0583](./renders/sub-RID0583/index.html) |
 | RID0588                                     | RID0589                                     | [RID0595](./renders/sub-RID0595/index.html) | [RID0596](./renders/sub-RID0596/index.html) | RID0646                                     |
-| RID0647                                     | RID0648                                     | RID0649                                     | RID0650                                     | RID0651                                     |
-| RID0652                                     |                                                 |                                                 |                                                 |                                                 |
+| RID0647                                     | [RID0648](./renders/sub-RID0508/index.html) | RID0649                                     | RID0650                                     | RID0651                                     |
+| RID0652                                     |                                             |                                             |                                             |                                             |
 
 
 
@@ -89,7 +89,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | RID0583 | SEEG        | left       | 
 | RID0595 | SEEG        | left       |
 | RID0596 | SEEG        | left       |
-
+| RID0648 |          |         |
 
 SEEG: Stereoelectroencephalography ("toothpicks")
 
