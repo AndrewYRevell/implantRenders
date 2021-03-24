@@ -8,7 +8,7 @@ Made by Andy Revell (Fifth-year MD/PhD student at Penn):
 
 # Implant Links
 
-_no identifying information is present_
+_No identifying information is present_
 
 **Click to view implant:**
 
@@ -20,12 +20,12 @@ _no identifying information is present_
 | RID0241                                     | RID0250                                     | RID0252                                     | RID0259                                     | RID0267                                     |
 | RID0272                                     | RID0274                                     | [RID0278](./renders/sub-RID0278/index.html) | RID0279                                     | RID0280                                     |
 | RID0295                                     | RID0296                                     | RID0307                                     | RID0309                                     | RID0317                                     |      
-| RID0320                                     | RID0322                                     | RID0325                                     | RID0328                                     | RID0329                                     | 
+| [RID0320](./renders/sub-RID0320/index.html) | RID0322                                     | RID0325                                     | RID0328                                     | RID0329                                     | 
 | RID0330                                     | RID0332                                     | RID0334                                     | RID0337                                     | RID0338                                     |    
-| RID0341                                     | RID0356                                     | RID0357                                     | [RID0365](./renders/sub-RID0365/index.html) | RID0371                                     |     
-| RID0380                                     | RID0381                                     | RID0382                                     | RID0385                                     | RID0386                                     |  
-| RID0392                                     | RID0394                                     | RID0405                                     | RID0412                                     | RID0420                                     | 
-| RID0424                                     | RID0440                                     | RID0442                                     | RID0452                                     | [RID0454](./renders/sub-RID0454/index.html) | 
+| [RID0341](./renders/sub-RID0341/index.html) | RID0356                                     | RID0357                                     | [RID0365](./renders/sub-RID0365/index.html) | RID0371                                     |     
+| [RID0380](./renders/sub-RID0380/index.html) | RID0381                                     | RID0382                                     | RID0385                                     | RID0386                                     |  
+| RID0392                                     | RID0394                                     | RID0405                                     | RID0412                                     | [RID0420](./renders/sub-RID0420/index.html) | 
+| RID0424                                     | [RID0440](./renders/sub-RID0365/index.html) | RID0442                                     | RID0452                                     | [RID0454](./renders/sub-RID0454/index.html) | 
 | RID0459                                     | RID0472                                     | RID0475                                     | RID0476                                     | [RID0490](./renders/sub-RID0490/index.html) |    
 | [RID0502](./renders/sub-RID0502/index.html) | [RID0508](./renders/sub-RID0508/index.html) | RID0517                                     | [RID0520](./renders/sub-RID0520/index.html) | RID0522                                     |
 | RID0522                                     | RID0529                                     | RID0530                                     | [RID0536](./renders/sub-RID0536/index.html) | RID0560                                     |
