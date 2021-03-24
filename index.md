@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-**_No identifying patient information is present. This webpage is intended to help view and navigate intracranial EEG implants in 3D space only._**
+**_No identifying patient information is present. This webpage is intended to help view intracranial EEG implants in 3D space only._**
 
 Made by Andrew Revell (Fifth-year MD/PhD student at Penn): 
 
