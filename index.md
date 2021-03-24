@@ -89,7 +89,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | RID0583 | SEEG        | left       | 
 | RID0595 | SEEG        | left       |
 | RID0596 | SEEG        | left       |
-| RID0648 |          |         |
+| RID0648 | SEEG        | left       |
 
 SEEG: Stereoelectroencephalography ("toothpicks")
 
