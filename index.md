@@ -76,6 +76,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 
 | Subjects| Implant     |  Sampling  | T1 scan used for surface  |                                
 | :------ | :---------- | :--------- | :------------------------ |
+| RID0031 | SEEG        | bilateral  | research 3T protocol      |
 | RID0139 | SEEG        | bilateral  | research 3T protocol      |
 | RID0213 | ECoG        | bilateral  | research 3T protocol      |
 | RID0278 | SEEG        | bilateral  | research 3T protocol      |
