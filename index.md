@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-_No identifying information is present_
+**_No patient identifying information is present. Only the brain surface 3D model, channel xyz coordinates, channel labels (e.g. LA1), and anonymized subject IDs are contained within this webpage. Information suchs as age, sex, dates, laterality of seizures, localization of seizures, outcomes, etc. will not be posted. This webpage is intended to help view and navigate the implants in 3D space only._**
 
-Made by Andy Revell (Fifth-year MD/PhD student at Penn): 
+Made by Andrew Revell (Fifth-year MD/PhD student at Penn): 
 
 <img src="./pics/londonPhone18.png" width="150">  
 
