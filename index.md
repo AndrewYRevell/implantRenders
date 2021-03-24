@@ -14,7 +14,7 @@ _No identifying information is present_
 
 | Subjects                                    |
 | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  |
-| RID0031                                     | RID0037                                     | RID0046                                     | RID0089                                     | RID0131                                     |
+| [RID0031](./renders/sub-RID0031/index.html) | RID0037                                     | RID0046                                     | RID0089                                     | RID0131                                     |
 | [RID0139](./renders/sub-RID0139/index.html) | RID0146                                     | RID0186                                     | RID0194                                     | RID0206                                     |
 | [RID0213](./renders/sub-RID0213/index.html) | RID0218                                     | RID0230                                     | RID0238                                     | RID0240                                     |              
 | RID0241                                     | RID0250                                     | RID0252                                     | RID0259                                     | RID0267                                     |
@@ -25,7 +25,7 @@ _No identifying information is present_
 | [RID0341](./renders/sub-RID0341/index.html) | RID0356                                     | RID0357                                     | [RID0365](./renders/sub-RID0365/index.html) | RID0371                                     |     
 | [RID0380](./renders/sub-RID0380/index.html) | RID0381                                     | RID0382                                     | RID0385                                     | RID0386                                     |  
 | RID0392                                     | RID0394                                     | RID0405                                     | RID0412                                     | [RID0420](./renders/sub-RID0420/index.html) | 
-| RID0424                                     | [RID0440](./renders/sub-RID0365/index.html) | RID0442                                     | RID0452                                     | [RID0454](./renders/sub-RID0454/index.html) | 
+| RID0424                                     | [RID0440](./renders/sub-RID0440/index.html) | RID0442                                     | RID0452                                     | [RID0454](./renders/sub-RID0454/index.html) | 
 | RID0459                                     | RID0472                                     | RID0475                                     | RID0476                                     | [RID0490](./renders/sub-RID0490/index.html) |    
 | [RID0502](./renders/sub-RID0502/index.html) | [RID0508](./renders/sub-RID0508/index.html) | RID0517                                     | [RID0520](./renders/sub-RID0520/index.html) | RID0522                                     |
 | RID0522                                     | RID0529                                     | RID0530                                     | [RID0536](./renders/sub-RID0536/index.html) | RID0560                                     |
@@ -79,7 +79,12 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | RID0139 | SEEG        | bilateral  | research 3T protocol      |
 | RID0213 | ECoG        | bilateral  | research 3T protocol      |
 | RID0278 | SEEG        | bilateral  | research 3T protocol      |
+| RID0320 | SEEG        | bilateral  | research 3T protocol      |
+| RID0341 | SEEG        | bilateral  | research 3T protocol      |
 | RID0365 | SEEG        | bilateral  | research 3T protocol      |
+| RID0380 | SEEG        | bilateral  | research 3T protocol      |
+| RID0420 | SEEG        | bilateral  | research 3T protocol      |
+| RID0440 | SEEG        | bilateral  | research 3T protocol      |
 | RID0454 | SEEG        | bilateral  | research 3T protocol      |
 | RID0490 | SEEG        | bilateral  | research 3T protocol      |
 | RID0502 | SEEG        | bilateral  | research 3T protocol      |
