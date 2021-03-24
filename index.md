@@ -2,8 +2,7 @@
 layout: default
 ---
 
-Made by Andy Revell (MD/PhD student at Penn)    ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
+Rendering of intracranial EEG (iEEG) implantations in epilepsy patients.
 
 # Implant Links
 
