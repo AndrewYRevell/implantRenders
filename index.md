@@ -35,7 +35,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 
 
 
-_What information is included in this webpage: (1) brain surface 3D model, (2) channel xyz coordinates, (3) channel labels (e.g. LA1), and (4) anonymized subject IDs_
+_What information is included in this webpage: (1) brain surface 3D model, (2) channel xyz coordinates, (3) channel labels (e.g. LA1), and (4) anonymized subject IDs._
 
 # About
 
@@ -76,7 +76,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | Subjects| Implant     |  Sampling  | T1 scan used for surface  |                                
 | :------ | :---------- | :--------- | :------------------------ |
 | RID0031 | SEEG        | bilateral  | research 3T protocol      |
-| RID0031 |          |    | clinical pre-op 3T scan     |
+| RID0131 |          |    | clinical pre-op 3T scan     |
 | RID0139 | SEEG        | bilateral  | research 3T protocol      |
 | RID0213 | ECoG        | bilateral  | research 3T protocol      |
 | RID0278 | SEEG        | bilateral  | research 3T protocol      |
