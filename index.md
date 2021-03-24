@@ -36,7 +36,7 @@ _What information is included in this webpage: (1) brain surface 3D model, (2) c
 | [RID0648](./renders/sub-RID0648/index.html) | RID0649                                     | RID0650                                     | RID0651                                     | RID0652                                     |
 
 *Surface reconstruction failed in Freesurfer. Using MNI template surface instead. Failure can be due to low quality clinical imaging and/or diffuse pathology.
-**Need to upload surface. COmputer shutdown in middle of running Freesurfer. Re-running
+**Need to upload surface. Computer shutdown in middle of running Freesurfer. Re-running
 
 
 # About
@@ -81,6 +81,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | RID0131 |          |    | clinical pre-op 3T scan     |
 | RID0139 | SEEG        | bilateral  | research 3T protocol      |
 | RID0186 | SEEG        | bilateral  | MNI Template              |
+| RID0194 | SEEG        | bilateral  | research 3T protocol      |
 | RID0213 | ECoG        | bilateral  | research 3T protocol      |
 | RID0278 | SEEG        | bilateral  | research 3T protocol      |
 | RID0279 | SEEG        | bilateral  | clinical pre-op 3T scan   |
