@@ -17,7 +17,7 @@ _What information is included in this webpage: (1) brain surface 3D model, (2) c
 | Subjects                                    |
 | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  |
 | [RID0031](./renders/sub-RID0031/index.html) | RID0037                                     | RID0046                                     | RID0089                                     | [RID0131](./renders/sub-RID0131/index.html) |
-| [RID0139](./renders/sub-RID0139/index.html) | RID0146                                     | [RID0186*](./renders/sub-RID0186/index.html) | RID0194                                     | RID0206                                     |
+| [RID0139](./renders/sub-RID0139/index.html) | RID0146                                     | [RID0186*](./renders/sub-RID0186/index.html) | [RID0194**](./renders/sub-RID0194/index.html)| RID0206                                     |
 | [RID0213](./renders/sub-RID0213/index.html) | RID0218                                     | RID0230                                     | RID0238                                     | RID0240                                     |
 | RID0241                                     | RID0250                                     | RID0252                                     | RID0259                                     | RID0267                                     |
 | RID0272                                     | RID0274                                     | [RID0278](./renders/sub-RID0278/index.html) | [RID0279](./renders/sub-RID0279/index.html) | RID0280                                     |
@@ -35,8 +35,8 @@ _What information is included in this webpage: (1) brain surface 3D model, (2) c
 | RID0589                                     | [RID0595](./renders/sub-RID0595/index.html) | [RID0596](./renders/sub-RID0596/index.html) | RID0646                                     | RID0647                                     |
 | [RID0648](./renders/sub-RID0648/index.html) | RID0649                                     | RID0650                                     | RID0651                                     | RID0652                                     |
 
-*Surface reconstruction failed in Freesurfer. Using MNI template. Can be due to low quality clinical imaging and/or diffuse pathology.
-
+*Surface reconstruction failed in Freesurfer. Using MNI template surface instead. Failure can be due to low quality clinical imaging and/or diffuse pathology.
+**Need to upload surface. COmputer shutdown in middle of running Freesurfer. Re-running
 
 
 # About
@@ -97,7 +97,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | RID0508 | SEEG        | left       | research 3T protocol      |
 | RID0520 | SEEG + ECoG | left       | research 3T protocol      | 
 | RID0522 | SEEG        | right      | research 3T protocol      |
-| RID0529 |         |       | research 3T protocol      |                                   
+| RID0529 | SEEG        | right      | research 3T protocol      |                                   
 | RID0536 | SEEG        | bilateral  | research 3T protocol      |
 | RID0572 | SEEG        | right      | research 3T protocol      |
 | RID0583 | SEEG        | left       | research 3T protocol      | 
