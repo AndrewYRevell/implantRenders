@@ -4,7 +4,7 @@ layout: default
 
 Made by Andy Revell (Fifth-year MD/PhD student at Penn): 
 
-<img src="./pics/londonPhone18.png" width="120">  
+<img src="./pics/londonPhone18.png" width="150">  
 
 # Implant Links
 
