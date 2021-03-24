@@ -7,8 +7,6 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 
 <img src="./pics/londonPhone18.png" width="150">  
 
-_What information is included in this webpage: (1) brain surface 3D model, (2) channel xyz coordinates, (3) channel labels (e.g. LA1), and (4) anonymized subject IDs._
-
 # Implant Links
 
 
@@ -36,6 +34,7 @@ _What information is included in this webpage: (1) brain surface 3D model, (2) c
 | [RID0648](./renders/sub-RID0648/index.html) | RID0649                                     | RID0650                                     | RID0651                                     | RID0652                                     |
 
 *Surface reconstruction failed in Freesurfer. Using MNI template surface instead. Failure can be due to low quality clinical imaging and/or diffuse pathology.
+
 **Need to upload surface. Computer shutdown in middle of running Freesurfer. Re-running
 
 
