@@ -80,6 +80,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | RID0031 | SEEG        | bilateral  | research 3T protocol      |
 | RID0131 |          |    | clinical pre-op 3T scan     |
 | RID0139 | SEEG        | bilateral  | research 3T protocol      |
+| RID0186 | SEEG        | bilateral  | MNI Template              |
 | RID0213 | ECoG        | bilateral  | research 3T protocol      |
 | RID0278 | SEEG        | bilateral  | research 3T protocol      |
 | RID0279 | SEEG        | bilateral  | clinical pre-op 3T scan   |
@@ -95,7 +96,8 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | RID0502 | SEEG        | bilateral  | research 3T protocol      |
 | RID0508 | SEEG        | left       | research 3T protocol      |
 | RID0520 | SEEG + ECoG | left       | research 3T protocol      | 
-| RID0522 | SEEG        | right      | research 3T protocol      |                                 
+| RID0522 | SEEG        | right      | research 3T protocol      |
+| RID0529 |         |       | research 3T protocol      |                                   
 | RID0536 | SEEG        | bilateral  | research 3T protocol      |
 | RID0572 | SEEG        | right      | research 3T protocol      |
 | RID0583 | SEEG        | left       | research 3T protocol      | 
