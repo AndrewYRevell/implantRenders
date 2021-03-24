@@ -16,7 +16,7 @@ Made by Andy Revell (Fifth-year MD/PhD student at Penn):
 | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  |
 | [RID0031](./renders/sub-RID0031/index.html) | RID0037                                     | RID0046                                     | RID0089                                     | RID0131                                     |
 | [RID0139](./renders/sub-RID0139/index.html) | RID0146                                     | RID0186                                     | RID0194                                     | RID0206                                     |
-| [RID0213](./renders/sub-RID0213/index.html) | RID0218                                     | RID0230                                     | RID0238                                     | RID0240                                     |              
+| [RID0213](./renders/sub-RID0213/index.html) | RID0218                                     | RID0230                                     | RID0238                                     | RID0240                                     |
 | RID0241                                     | RID0250                                     | RID0252                                     | RID0259                                     | RID0267                                     |
 | RID0272                                     | RID0274                                     | [RID0278](./renders/sub-RID0278/index.html) | RID0279                                     | RID0280                                     |
 | RID0295                                     | RID0296                                     | RID0307                                     | RID0309                                     | RID0317                                     |      
@@ -88,7 +88,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | RID0420 | SEEG        | bilateral  | research 3T protocol      |
 | RID0440 | SEEG        | bilateral  | research 3T protocol      |
 | RID0454 | SEEG        | bilateral  | research 3T protocol      |
-| RID0459 |          |    | research 3T protocol      |
+| RID0459 | SEEG        | left       | research 3T protocol      |
 | RID0490 | SEEG        | bilateral  | research 3T protocol      |
 | RID0502 | SEEG        | bilateral  | research 3T protocol      |
 | RID0508 | SEEG        | left       | research 3T protocol      |
