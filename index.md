@@ -10,7 +10,6 @@ Made by Andy Revell (Fifth-year MD/PhD student at Penn):
 
 **Click to view implant:**
 
-
 | Subjects                                    |
 | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  |
 | RID0031                                     | RID0037                                     | RID0046                                     | RID0089                                     | RID0131                                     |
@@ -33,7 +32,7 @@ Made by Andy Revell (Fifth-year MD/PhD student at Penn):
 | RID0647                                     | [RID0648](./renders/sub-RID0648/index.html) | RID0649                                     | RID0650                                     | RID0651                                     |
 | RID0652                                     |                                             |                                             |                                             |                                             |
 
-
+_no identifying information is present_
 
 
 
