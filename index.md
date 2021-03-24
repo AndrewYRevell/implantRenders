@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Made by Andy Revell (Fifth-year MD/PhD student at Penn) ![aboutImage](./pics/londonPhone18.png)
+Made by Andy Revell (Fifth-year MD/PhD student at Penn) ![aboutImage](./pics/londonPhone18.png =150x)
 
 # Implant Links
 
