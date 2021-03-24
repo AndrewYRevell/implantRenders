@@ -26,7 +26,7 @@ Made by Andy Revell (Fifth-year MD/PhD student at Penn):
 | [RID0380](./renders/sub-RID0380/index.html) | RID0381                                     | RID0382                                     | RID0385                                     | RID0386                                     |  
 | RID0392                                     | RID0394                                     | RID0405                                     | RID0412                                     | [RID0420](./renders/sub-RID0420/index.html) | 
 | RID0424                                     | [RID0440](./renders/sub-RID0440/index.html) | RID0442                                     | RID0452                                     | [RID0454](./renders/sub-RID0454/index.html) | 
-| RID0459                                     | RID0472                                     | RID0475                                     | RID0476                                     | [RID0490](./renders/sub-RID0490/index.html) |    
+| [RID0459](./renders/sub-RID0459/index.html) | RID0472                                     | RID0475                                     | RID0476                                     | [RID0490](./renders/sub-RID0490/index.html) |    
 | [RID0502](./renders/sub-RID0502/index.html) | [RID0508](./renders/sub-RID0508/index.html) | RID0517                                     | [RID0520](./renders/sub-RID0520/index.html) | RID0522                                     |
 | [RID0522](./renders/sub-RID0522/index.html) | RID0529                                     | RID0530                                     | [RID0536](./renders/sub-RID0536/index.html) | RID0560                                     |
 | RID0562                                     | RID0566                                     | [RID0572](./renders/sub-RID0572/index.html) | RID0582                                     | [RID0583](./renders/sub-RID0583/index.html) |
@@ -88,6 +88,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | RID0420 | SEEG        | bilateral  | research 3T protocol      |
 | RID0440 | SEEG        | bilateral  | research 3T protocol      |
 | RID0454 | SEEG        | bilateral  | research 3T protocol      |
+| RID0459 |          |    | research 3T protocol      |
 | RID0490 | SEEG        | bilateral  | research 3T protocol      |
 | RID0502 | SEEG        | bilateral  | research 3T protocol      |
 | RID0508 | SEEG        | left       | research 3T protocol      |
