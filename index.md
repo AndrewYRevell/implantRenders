@@ -12,26 +12,27 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 
 **Click to view implant:**
 
-| Subjects                                    |
-| :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  |
-| [RID0031](./renders/sub-RID0031/index.html) | RID0037                                     | RID0046                                     | RID0089                                     | [RID0131](./renders/sub-RID0131/index.html) |
-| [RID0139](./renders/sub-RID0139/index.html) | [RID0146](./renders/sub-RID0146/index.html) | [RID0186](./renders/sub-RID0186/index.html) | [RID0194](./renders/sub-RID0194/index.html) | [RID0206](./renders/sub-RID0206/index.html) |
-| [RID0213](./renders/sub-RID0213/index.html) | [RID0218](./renders/sub-RID0218/index.html) | [RID0230](./renders/sub-RID0230/index.html) | [RID0238](./renders/sub-RID0238/index.html)                                     | RID0240                                     |
-| RID0241                                     | RID0250                                     | RID0252                                     | RID0259                                     | RID0267                                     |
-| RID0272                                     | RID0274                                     | [RID0278](./renders/sub-RID0278/index.html) | [RID0279](./renders/sub-RID0279/index.html) | RID0280                                     |
-| RID0295                                     | RID0296                                     | RID0307                                     | [RID0309](./renders/sub-RID0309/index.html) | RID0317                                     |      
-| [RID0320](./renders/sub-RID0320/index.html) | RID0322                                     | RID0325                                     | RID0328                                     | RID0329                                     | 
-| RID0330                                     | RID0332                                     | RID0334                                     | RID0337                                     | RID0338                                     |    
-| [RID0341](./renders/sub-RID0341/index.html) | RID0356                                     | RID0357                                     | [RID0365](./renders/sub-RID0365/index.html) | RID0371                                     |     
-| [RID0380](./renders/sub-RID0380/index.html) | RID0381                                     | RID0382                                     | RID0385                                     | RID0386                                     |  
-| RID0392                                     | [RID0394](./renders/sub-RID0394/index.html) | RID0405                                     | RID0412                                     | [RID0420](./renders/sub-RID0420/index.html) | 
-| RID0424                                     | [RID0440](./renders/sub-RID0440/index.html) | RID0442                                     | RID0452                                     | [RID0454](./renders/sub-RID0454/index.html) | 
-| [RID0459](./renders/sub-RID0459/index.html) | RID0472                                     | RID0475                                     | [RID0476](./renders/sub-RID0476/index.html) | [RID0490](./renders/sub-RID0490/index.html) |    
-| [RID0502](./renders/sub-RID0502/index.html) | [RID0508](./renders/sub-RID0508/index.html) | RID0517                                     | [RID0520](./renders/sub-RID0520/index.html) | [RID0522](./renders/sub-RID0522/index.html) |
-| [RID0529](./renders/sub-RID0529/index.html) | RID0530                                     | [RID0536](./renders/sub-RID0536/index.html) | RID0560                                     | RID0562                                     |
-| RID0566                                     | [RID0572](./renders/sub-RID0572/index.html) | RID0582                                     | [RID0583](./renders/sub-RID0583/index.html) | RID0588                                     |
-| RID0589                                     | [RID0595](./renders/sub-RID0595/index.html) | [RID0596](./renders/sub-RID0596/index.html) | RID0646                                     | RID0647                                     |
-| [RID0648](./renders/sub-RID0648/index.html) | RID0649                                     | RID0650                                     | RID0651                                     | RID0652                                     |
+| Subjects                                |
+| :-------------------------------------- | :-------------------------------------- | :-------------------------------------  | :-------------------------------------  | :-------------------------------------  |
+| [31](./renders/sub-RID0031/index.html)  | 37                                      | 46                                      | 89                                      | [131](./renders/sub-RID0131/index.html) |
+| [139](./renders/sub-RID0139/index.html) | [146](./renders/sub-RID0146/index.html) | [186](./renders/sub-RID0186/index.html) | [194](./renders/sub-RID0194/index.html) | [206](./renders/sub-RID0206/index.html) |
+| [213](./renders/sub-RID0213/index.html) | [218](./renders/sub-RID0218/index.html) | [230](./renders/sub-RID0230/index.html) | [238](./renders/sub-RID0238/index.html) | 240                                     |
+| 241                                     | 250                                     | 252                                     | 259                                     | 267                                     |
+| 272                                     | 274                                     | [278](./renders/sub-RID0278/index.html) | [279](./renders/sub-RID0279/index.html) | 280                                     |
+| 295                                     | 296                                     | 307                                     | [309](./renders/sub-RID0309/index.html) | 317                                     |      
+| [320](./renders/sub-RID0320/index.html) | 322                                     | 325                                     | 328                                     | 329                                     | 
+| 330                                     | 332                                     | 334                                     | 337                                     | 338                                     |    
+| [341](./renders/sub-RID0341/index.html) | 356                                     | 357                                     | [365](./renders/sub-RID0365/index.html) | 371                                     |     
+| [380](./renders/sub-RID0380/index.html) | 381                                     | 382                                     | 385                                     | 386                                     |  
+| 392                                     | [394](./renders/sub-RID0394/index.html) | 405                                     | 412                                     | [420](./renders/sub-RID0420/index.html) | 
+| 424                                     | [440](./renders/sub-RID0440/index.html) | 442                                     | 452                                     | [454](./renders/sub-RID0454/index.html) | 
+| [459](./renders/sub-RID0459/index.html) | 472                                     | 475                                     | [476](./renders/sub-RID0476/index.html) | [490](./renders/sub-RID0490/index.html) |    
+| [502](./renders/sub-RID0502/index.html) | [508](./renders/sub-RID0508/index.html) | 517                                     | [520](./renders/sub-RID0520/index.html) | [522](./renders/sub-RID0522/index.html) |
+| [529](./renders/sub-RID0529/index.html) | 530                                     | [536](./renders/sub-RID0536/index.html) | 560                                     | 562                                     |
+| 566                                     | [572](./renders/sub-RID0572/index.html) | 582                                     | [583](./renders/sub-RID0583/index.html) | 588                                     |
+| 589                                     | [595](./renders/sub-RID0595/index.html) | [596](./renders/sub-RID0596/index.html) | 646                                     | 647                                     |
+| [648](./renders/sub-RID0648/index.html) | 649                                     | 650                                     | 651                                     | 652                                     |
+
 
 
 - Notes:
@@ -78,42 +79,46 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 
 | Subjects| Implant     |  Sampling  | T1 scan used for surface  |                                
 | :------ | :---------- | :--------- | :------------------------ |
-| RID0031 | SEEG        | bilateral  | research 3T protocol      |
-| RID0131 | SEEG        | left       | clinical pre-op 3T scan   |
-| RID0139 | SEEG        | bilateral  | research 3T protocol      |
-| RID0146 | SEEG        | bilateral  | clinical pre-op 3T scan   |
-| RID0186 | SEEG        | bilateral  | clinical pre-op 3T scan   |
-| RID0194 | SEEG        | bilateral  | research 3T protocol      |
-| RID0206 | SEEG        | bilateral  | clinical pre-op 3T scan   |
-| RID0213 | ECoG        | bilateral  | research 3T protocol      |
-| RID0218 | SEEG        | bilateral  | clinical pre-op 3T scan   |
-| RID0230 | SEEG        | bilateral  | clinical pre-op 3T scan   |
-| RID0238 | SEEG        | bilateral  | clinical pre-op 3T scan   |
-| RID0278 | SEEG        | bilateral  | research 3T protocol      |
-| RID0279 | SEEG        | bilateral  | clinical pre-op 3T scan   |
-| RID0309 | SEEG        | bilateral  | research 3T protocol      |
-| RID0320 | SEEG        | bilateral  | research 3T protocol      |
-| RID0341 | SEEG        | bilateral  | research 3T protocol      |
-| RID0365 | SEEG        | bilateral  | research 3T protocol      |
-| RID0380 | SEEG        | bilateral  | research 3T protocol      |
-| RID0394 | SEEG        | bilateral  | research 3T protocol      |
-| RID0420 | SEEG        | bilateral  | research 3T protocol      |
-| RID0440 | SEEG        | bilateral  | research 3T protocol      |
-| RID0454 | SEEG        | bilateral  | research 3T protocol      |
-| RID0459 | SEEG        | left       | research 3T protocol      |
-| RID0476 | SEEG        | bilateral  | research 3T protocol      |
-| RID0490 | SEEG        | bilateral  | research 3T protocol      |
-| RID0502 | SEEG        | bilateral  | research 3T protocol      |
-| RID0508 | SEEG        | left       | research 3T protocol      |
-| RID0520 | SEEG + ECoG | left       | research 3T protocol      | 
-| RID0522 | SEEG        | right      | research 3T protocol      |
-| RID0529 | SEEG        | right      | research 3T protocol      |                                   
-| RID0536 | SEEG        | bilateral  | research 3T protocol      |
-| RID0572 | SEEG        | right      | research 3T protocol      |
-| RID0583 | SEEG        | left       | research 3T protocol      | 
-| RID0595 | SEEG        | left       | research 3T protocol      |
-| RID0596 | SEEG        | left       | research 3T protocol      |
-| RID0648 | SEEG        | left       | research 3T protocol      |
+| 31 | SEEG        | bilateral  | research 3T protocol      |
+| 131 | SEEG        | left       | clinical pre-op 3T scan   |
+| 139 | SEEG        | bilateral  | research 3T protocol      |
+| 146 | SEEG        | bilateral  | clinical pre-op 3T scan   |
+| 186 | SEEG        | bilateral  | clinical pre-op 3T scan   |
+| 194 | SEEG        | bilateral  | research 3T protocol      |
+| 206 | SEEG        | bilateral  | clinical pre-op 3T scan   |
+| 213 | ECoG        | bilateral  | research 3T protocol      |
+| 218 | SEEG        | bilateral  | clinical pre-op 3T scan   |
+| 230 | SEEG        | bilateral  | clinical pre-op 3T scan   |
+| 238 | SEEG        | bilateral  | clinical pre-op 3T scan   |
+| 278 | SEEG        | bilateral  | research 3T protocol      |
+| 279 | SEEG        | bilateral  | clinical pre-op 3T scan   |
+| 309 | SEEG        | bilateral  | research 3T protocol      |
+| 320 | SEEG        | bilateral  | research 3T protocol      |
+| 341 | SEEG        | bilateral  | research 3T protocol      |
+| 365 | SEEG        | bilateral  | research 3T protocol      |
+| 380 | SEEG        | bilateral  | research 3T protocol      |
+| 394 | SEEG        | bilateral  | research 3T protocol      |
+| 420 | SEEG        | bilateral  | research 3T protocol      |
+| 440 | SEEG        | bilateral  | research 3T protocol      |
+| 454 | SEEG        | bilateral  | research 3T protocol      |
+| 459 | SEEG        | left       | research 3T protocol      |
+| 476 | SEEG        | bilateral  | research 3T protocol      |
+| 490 | SEEG        | bilateral  | research 3T protocol      |
+| 502 | SEEG        | bilateral  | research 3T protocol      |
+| 508 | SEEG        | left       | research 3T protocol      |
+| 520 | SEEG + ECoG | left       | research 3T protocol      | 
+| 522 | SEEG        | right      | research 3T protocol      |
+| 529 | SEEG        | right      | research 3T protocol      |                                   
+| 536 | SEEG        | bilateral  | research 3T protocol      |
+| 572 | SEEG        | right      | research 3T protocol      |
+| 583 | SEEG        | left       | research 3T protocol      | 
+| 595 | SEEG        | left       | research 3T protocol      |
+| 596 | SEEG        | left       | research 3T protocol      |
+| 648 | SEEG        | left       | research 3T protocol      |
+
+
+
+
 
 SEEG: Stereoelectroencephalography ("toothpicks")
 
