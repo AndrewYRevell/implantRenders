@@ -5,6 +5,8 @@ layout: default
 
 Made by Andrew Revell (Fifth-year MD/PhD student at Penn): 
 
+[GitHub](https://github.com/andyrevell)
+
 <img src="./pics/londonPhone18.png" width="150">  
 
 # Implant Links
