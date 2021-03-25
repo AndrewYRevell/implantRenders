@@ -15,7 +15,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 | Subjects                                    |
 | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  |
 | [RID0031](./renders/sub-RID0031/index.html) | RID0037                                     | RID0046                                     | RID0089                                     | [RID0131](./renders/sub-RID0131/index.html) |
-| [RID0139](./renders/sub-RID0139/index.html) | [RID0146](./renders/sub-RID0146/index.html) | [RID0186*](./renders/sub-RID0186/index.html)| [RID0194](./renders/sub-RID0194/index.html)| RID0206                                     |
+| [RID0139](./renders/sub-RID0139/index.html) | [RID0146](./renders/sub-RID0146/index.html) | [RID0186](./renders/sub-RID0186/index.html)| [RID0194](./renders/sub-RID0194/index.html)| RID0206                                     |
 | [RID0213](./renders/sub-RID0213/index.html) | RID0218                                     | RID0230                                     | RID0238                                     | RID0240                                     |
 | RID0241                                     | RID0250                                     | RID0252                                     | RID0259                                     | RID0267                                     |
 | RID0272                                     | RID0274                                     | [RID0278](./renders/sub-RID0278/index.html) | [RID0279](./renders/sub-RID0279/index.html) | RID0280                                     |
@@ -33,7 +33,10 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 | RID0589                                     | [RID0595](./renders/sub-RID0595/index.html) | [RID0596](./renders/sub-RID0596/index.html) | RID0646                                     | RID0647                                     |
 | [RID0648](./renders/sub-RID0648/index.html) | RID0649                                     | RID0650                                     | RID0651                                     | RID0652                                     |
 
-*Surface reconstruction failed in Freesurfer. Therefore registered coordinates to the surface file are also innacurate. Failure can be due to low quality clinical imaging and/or diffuse pathology. 
+
+Notes:
+	- RID0186: Surface reconstruction failed in Freesurfer. Therefore registered coordinates to the surface file are also innacurate. Failure can be due to low quality clinical imaging and/or diffuse pathology.
+	- RID0194: Channel coordinates and surface reconstruction correct in face of diffuse brain pathology. 
 
 
 
