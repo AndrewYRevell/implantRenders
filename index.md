@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-**_No identifying patient information is present. This webpage is intended to help view intracranial EEG implants in 3D space only._**
+**_No identifying patient information is present. The [18 HIPAA-designated](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html) direct identifiers and other indirect identifiers are not present. Vague language is intentionally used to limit all attempts at identification. This webpage is intended to navigate intracranial EEG implants in 3D space only. Please direct questions to:_**
 
 Made by Andrew Revell (Fifth-year MD/PhD student at Penn): 
 
@@ -36,9 +36,9 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 
 
 - Notes:
-	- RID0186: Surface reconstruction failed in Freesurfer. Therefore registered coordinates to the surface file are also innacurate. Failure can be due to low quality clinical imaging and/or diffuse pathology.
-	- RID0194: Channel coordinates and surface reconstruction are correct with the diffuse brain pathology. 
-	- RID0476: Channel coordinates and surface reconstruction are correct with the diffuse brain pathology. 
+	- 186: Surface reconstruction of pre-implant image failed in Freesurfer. Used alternative clinical T1 imaging. Non-linear registration of coordinates failed with alternative imaging. Therefore registered coordinates to the surface file are innacurate.
+	- 194: Channel coordinates and surface reconstruction are correct. 
+	- 476: Channel coordinates and surface reconstruction are correct. 
 
 
 # About
