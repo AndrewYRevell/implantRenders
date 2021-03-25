@@ -37,7 +37,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 - Notes:
 	- RID0186: Surface reconstruction failed in Freesurfer. Therefore registered coordinates to the surface file are also innacurate. Failure can be due to low quality clinical imaging and/or diffuse pathology.
 	- RID0194: Channel coordinates and surface reconstruction are correct with the diffuse brain pathology. 
-
+	- RID0476: Channel coordinates and surface reconstruction are correct with the diffuse brain pathology. 
 
 
 # About
@@ -84,10 +84,10 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | RID0146 | SEEG        | bilateral  | clinical pre-op 3T scan   |
 | RID0186 | SEEG        | bilateral  | clinical pre-op 3T scan   |
 | RID0194 | SEEG        | bilateral  | research 3T protocol      |
-| RID0206 | SEEG        | bilateral  | clinical pre-op 3T scan      |
+| RID0206 | SEEG        | bilateral  | clinical pre-op 3T scan   |
 | RID0213 | ECoG        | bilateral  | research 3T protocol      |
-| RID0218 |          |    | clinical pre-op 3T scan      |
-| RID0230 |         |   | clinical pre-op 3T scan      |
+| RID0218 | SEEG        | bilateral  | clinical pre-op 3T scan   |
+| RID0230 | SEEG        | bilateral  | clinical pre-op 3T scan   |
 | RID0278 | SEEG        | bilateral  | research 3T protocol      |
 | RID0279 | SEEG        | bilateral  | clinical pre-op 3T scan   |
 | RID0309 | SEEG        | bilateral  | research 3T protocol      |
@@ -95,12 +95,12 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | RID0341 | SEEG        | bilateral  | research 3T protocol      |
 | RID0365 | SEEG        | bilateral  | research 3T protocol      |
 | RID0380 | SEEG        | bilateral  | research 3T protocol      |
-| RID0394 |         |   | research 3T protocol      |
+| RID0394 | SEEG        | bilateral  | research 3T protocol      |
 | RID0420 | SEEG        | bilateral  | research 3T protocol      |
 | RID0440 | SEEG        | bilateral  | research 3T protocol      |
 | RID0454 | SEEG        | bilateral  | research 3T protocol      |
 | RID0459 | SEEG        | left       | research 3T protocol      |
-| RID0459 |         |        | research 3T protocol      |
+| RID0476 | SEEG        | bilateral  | research 3T protocol      |
 | RID0490 | SEEG        | bilateral  | research 3T protocol      |
 | RID0502 | SEEG        | bilateral  | research 3T protocol      |
 | RID0508 | SEEG        | left       | research 3T protocol      |
