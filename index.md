@@ -33,9 +33,8 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 | RID0589                                     | [RID0595](./renders/sub-RID0595/index.html) | [RID0596](./renders/sub-RID0596/index.html) | RID0646                                     | RID0647                                     |
 | [RID0648](./renders/sub-RID0648/index.html) | RID0649                                     | RID0650                                     | RID0651                                     | RID0652                                     |
 
-*Surface reconstruction failed in Freesurfer. Using MNI template surface instead. Failure can be due to low quality clinical imaging and/or diffuse pathology.
+*Surface reconstruction failed in Freesurfer. Therefore registered coordinates to the surface file are also innacurate. Failure can be due to low quality clinical imaging and/or diffuse pathology. 
 
-**Need to upload surface. Computer shutdown in middle of running Freesurfer. Re-running
 
 
 # About
