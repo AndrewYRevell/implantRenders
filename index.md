@@ -15,7 +15,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 | Subjects                                    |
 | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  |
 | [RID0031](./renders/sub-RID0031/index.html) | RID0037                                     | RID0046                                     | RID0089                                     | [RID0131](./renders/sub-RID0131/index.html) |
-| [RID0139](./renders/sub-RID0139/index.html) | [RID0146](./renders/sub-RID0146/index.html) | [RID0186](./renders/sub-RID0186/index.html) | [RID0194](./renders/sub-RID0194/index.html) | [RID0206]./renders/sub-RID0206/index.html)  |
+| [RID0139](./renders/sub-RID0139/index.html) | [RID0146](./renders/sub-RID0146/index.html) | [RID0186](./renders/sub-RID0186/index.html) | [RID0194](./renders/sub-RID0194/index.html) | [RID0206](./renders/sub-RID0206/index.html) |
 | [RID0213](./renders/sub-RID0213/index.html) | [RID0218](./renders/sub-RID0218/index.html) | [RID0230](./renders/sub-RID0230/index.html) | RID0238                                     | RID0240                                     |
 | RID0241                                     | RID0250                                     | RID0252                                     | RID0259                                     | RID0267                                     |
 | RID0272                                     | RID0274                                     | [RID0278](./renders/sub-RID0278/index.html) | [RID0279](./renders/sub-RID0279/index.html) | RID0280                                     |
@@ -84,7 +84,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | RID0146 | SEEG        | bilateral  | clinical pre-op 3T scan   |
 | RID0186 | SEEG        | bilateral  | clinical pre-op 3T scan   |
 | RID0194 | SEEG        | bilateral  | research 3T protocol      |
-| RID0206 |         |   | clinical pre-op 3T scan      |
+| RID0206 | SEEG        | bilateral  | clinical pre-op 3T scan      |
 | RID0213 | ECoG        | bilateral  | research 3T protocol      |
 | RID0218 |          |    | clinical pre-op 3T scan      |
 | RID0230 |         |   | clinical pre-op 3T scan      |
