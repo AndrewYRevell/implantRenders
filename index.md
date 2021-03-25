@@ -12,7 +12,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 
 **Click to view implant:**
 
-| Subjects                                |
+|                                         |
 | :-------------------------------------- | :-------------------------------------- | :-------------------------------------  | :-------------------------------------  | :-------------------------------------  |
 | [31](./renders/sub-RID0031/index.html)  | 37                                      | 46                                      | 89                                      | [131](./renders/sub-RID0131/index.html) |
 | [139](./renders/sub-RID0139/index.html) | [146](./renders/sub-RID0146/index.html) | [186](./renders/sub-RID0186/index.html) | [194](./renders/sub-RID0194/index.html) | [206](./renders/sub-RID0206/index.html) |
