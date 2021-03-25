@@ -4,6 +4,8 @@ layout: default
 **_No identifying patient information is present. The [18 HIPAA-designated](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html) direct identifiers and other indirect identifiers are removed. Vague language is sometimes used to limit all attempts at identification (e.g. why surface reconstruction failed for a specific individual). This webpage is intended to navigate intracranial EEG implants in 3D space only._**
   
 -------------------------------------
+
+-------------------------------------
  
 Made by Andrew Revell (Fifth-year MD/PhD student at Penn): 
 
@@ -97,7 +99,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 440     | SEEG        | bilateral  | research 3T protocol      |
 | 454     | SEEG        | bilateral  | research 3T protocol      |
 | 459     | SEEG        | left       | research 3T protocol      |
-| 472     |         |   | clinical pre-op 3T scan   |
+| 472     | SEEG        | bilateral  | clinical pre-op 3T scan   |
 | 475     | SEEG        | bilateral  | clinical pre-op 3T scan   |
 | 476     | SEEG        | bilateral  | research 3T protocol      |
 | 490     | SEEG        | bilateral  | research 3T protocol      |
