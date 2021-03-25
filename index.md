@@ -33,7 +33,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 
 
 - Notes:
-	- 186: Surface reconstruction of pre-implant image failed in Freesurfer. Used alternative clinical T1 imaging. Non-linear registration of coordinates failed with alternative imaging. Therefore registered coordinates to the surface file are innacurate.
+	- 186: Surface reconstruction of pre-implant image failed in Freesurfer. Used the alternative clinical T1 imaging. Linear registration of coordinates failed with alternative imaging. Therefore registered coordinates to the surface file are innacurate.
 	- 194: Channel coordinates and surface reconstruction are correct. 
 	- 476: Channel coordinates and surface reconstruction are correct. 
 
