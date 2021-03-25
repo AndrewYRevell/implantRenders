@@ -34,7 +34,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 | [RID0648](./renders/sub-RID0648/index.html) | RID0649                                     | RID0650                                     | RID0651                                     | RID0652                                     |
 
 
-Notes:
+- Notes:
 	- RID0186: Surface reconstruction failed in Freesurfer. Therefore registered coordinates to the surface file are also innacurate. Failure can be due to low quality clinical imaging and/or diffuse pathology.
 	- RID0194: Channel coordinates and surface reconstruction correct in face of diffuse brain pathology. 
 
