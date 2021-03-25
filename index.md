@@ -2,9 +2,9 @@
 layout: default
 ---
 **_No identifying patient information is present. The [18 HIPAA-designated](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html) direct identifiers and other indirect identifiers are removed. Vague language is used to limit all attempts at identification (e.g. why surface reconstruction failed). This webpage is intended to navigate intracranial EEG implants in 3D space only._**
-  
-    
-    
+\  
+\ 
+\ 
 Made by Andrew Revell (Fifth-year MD/PhD student at Penn): 
 
 [My GitHub](https://github.com/andyrevell)
