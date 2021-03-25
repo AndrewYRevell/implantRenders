@@ -15,8 +15,8 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 | Subjects                                    |
 | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  | :-----------------------------------------  |
 | [RID0031](./renders/sub-RID0031/index.html) | RID0037                                     | RID0046                                     | RID0089                                     | [RID0131](./renders/sub-RID0131/index.html) |
-| [RID0139](./renders/sub-RID0139/index.html) | [RID0146](./renders/sub-RID0146/index.html) | [RID0186](./renders/sub-RID0186/index.html) | [RID0194](./renders/sub-RID0194/index.html) | RID0206                                     |
-| [RID0213](./renders/sub-RID0213/index.html) | RID0218                                     | RID0230                                     | RID0238                                     | RID0240                                     |
+| [RID0139](./renders/sub-RID0139/index.html) | [RID0146](./renders/sub-RID0146/index.html) | [RID0186](./renders/sub-RID0186/index.html) | [RID0194](./renders/sub-RID0194/index.html) | [RID0206]./renders/sub-RID0206/index.html)  |
+| [RID0213](./renders/sub-RID0213/index.html) | [RID0218](./renders/sub-RID0218/index.html) | [RID0230](./renders/sub-RID0230/index.html) | RID0238                                     | RID0240                                     |
 | RID0241                                     | RID0250                                     | RID0252                                     | RID0259                                     | RID0267                                     |
 | RID0272                                     | RID0274                                     | [RID0278](./renders/sub-RID0278/index.html) | [RID0279](./renders/sub-RID0279/index.html) | RID0280                                     |
 | RID0295                                     | RID0296                                     | RID0307                                     | [RID0309](./renders/sub-RID0309/index.html) | RID0317                                     |      
@@ -24,9 +24,9 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 | RID0330                                     | RID0332                                     | RID0334                                     | RID0337                                     | RID0338                                     |    
 | [RID0341](./renders/sub-RID0341/index.html) | RID0356                                     | RID0357                                     | [RID0365](./renders/sub-RID0365/index.html) | RID0371                                     |     
 | [RID0380](./renders/sub-RID0380/index.html) | RID0381                                     | RID0382                                     | RID0385                                     | RID0386                                     |  
-| RID0392                                     | RID0394                                     | RID0405                                     | RID0412                                     | [RID0420](./renders/sub-RID0420/index.html) | 
+| RID0392                                     | [RID0394](./renders/sub-RID0394/index.html) | RID0405                                     | RID0412                                     | [RID0420](./renders/sub-RID0420/index.html) | 
 | RID0424                                     | [RID0440](./renders/sub-RID0440/index.html) | RID0442                                     | RID0452                                     | [RID0454](./renders/sub-RID0454/index.html) | 
-| [RID0459](./renders/sub-RID0459/index.html) | RID0472                                     | RID0475                                     | RID0476                                     | [RID0490](./renders/sub-RID0490/index.html) |    
+| [RID0459](./renders/sub-RID0459/index.html) | RID0472                                     | RID0475                                     | [RID0476](./renders/sub-RID0476/index.html) | [RID0490](./renders/sub-RID0490/index.html) |    
 | [RID0502](./renders/sub-RID0502/index.html) | [RID0508](./renders/sub-RID0508/index.html) | RID0517                                     | [RID0520](./renders/sub-RID0520/index.html) | [RID0522](./renders/sub-RID0522/index.html) |
 | [RID0529](./renders/sub-RID0529/index.html) | RID0530                                     | [RID0536](./renders/sub-RID0536/index.html) | RID0560                                     | RID0562                                     |
 | RID0566                                     | [RID0572](./renders/sub-RID0572/index.html) | RID0582                                     | [RID0583](./renders/sub-RID0583/index.html) | RID0588                                     |
@@ -36,7 +36,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 
 - Notes:
 	- RID0186: Surface reconstruction failed in Freesurfer. Therefore registered coordinates to the surface file are also innacurate. Failure can be due to low quality clinical imaging and/or diffuse pathology.
-	- RID0194: Channel coordinates and surface reconstruction correct in face of diffuse brain pathology. 
+	- RID0194: Channel coordinates and surface reconstruction are correct with the diffuse brain pathology. 
 
 
 
@@ -84,7 +84,10 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | RID0146 | SEEG        | bilateral  | clinical pre-op 3T scan   |
 | RID0186 | SEEG        | bilateral  | clinical pre-op 3T scan   |
 | RID0194 | SEEG        | bilateral  | research 3T protocol      |
+| RID0206 |         |   | clinical pre-op 3T scan      |
 | RID0213 | ECoG        | bilateral  | research 3T protocol      |
+| RID0218 |          |    | clinical pre-op 3T scan      |
+| RID0230 |         |   | clinical pre-op 3T scan      |
 | RID0278 | SEEG        | bilateral  | research 3T protocol      |
 | RID0279 | SEEG        | bilateral  | clinical pre-op 3T scan   |
 | RID0309 | SEEG        | bilateral  | research 3T protocol      |
@@ -92,10 +95,12 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | RID0341 | SEEG        | bilateral  | research 3T protocol      |
 | RID0365 | SEEG        | bilateral  | research 3T protocol      |
 | RID0380 | SEEG        | bilateral  | research 3T protocol      |
+| RID0394 |         |   | research 3T protocol      |
 | RID0420 | SEEG        | bilateral  | research 3T protocol      |
 | RID0440 | SEEG        | bilateral  | research 3T protocol      |
 | RID0454 | SEEG        | bilateral  | research 3T protocol      |
 | RID0459 | SEEG        | left       | research 3T protocol      |
+| RID0459 |         |        | research 3T protocol      |
 | RID0490 | SEEG        | bilateral  | research 3T protocol      |
 | RID0502 | SEEG        | bilateral  | research 3T protocol      |
 | RID0508 | SEEG        | left       | research 3T protocol      |
