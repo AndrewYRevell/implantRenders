@@ -44,6 +44,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 |334                                         | 337                                        | 
 
 - Notes:
+	- 13: Bilateral ECoG sampling, but only 4 channels on left side (inferior temporal lobe). Grid overlaid on right temporal lobe is correct. Cortical surface of right temporal lobe is correct (or absence thereof is correct).
 	- 186: Surface reconstruction of pre-implant image failed in Freesurfer. Used the alternative clinical T1 imaging. Linear registration of coordinates failed with alternative imaging. Therefore registered coordinates to the surface file are innacurate.
 	- 194: Channel coordinates and surface reconstruction are correct. 
 	- 476: Channel coordinates and surface reconstruction are correct. 
@@ -87,7 +88,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 
 | Subject | Implant     |  Sampling  | T1 scan used for surface  |                                
 | :------ | :---------- | :--------- | :------------------------ |
-| 13      |         |   | clinical pre-op 3T scan      |
+| 13      | ECoG        | bilateral  | clinical pre-op 3T scan      |
 | 31      | SEEG        | bilateral  | research 3T protocol      |
 | 131     | SEEG        | left       | clinical pre-op 3T scan   |
 | 139     | SEEG        | bilateral  | research 3T protocol      |
@@ -119,7 +120,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 490     | SEEG        | bilateral  | research 3T protocol      |
 | 502     | SEEG        | bilateral  | research 3T protocol      |
 | 508     | SEEG        | left       | research 3T protocol      |
-| 517     |         |        | clinical pre-op 3T scan      |
+| 517     | SEEG        | bilateral       | clinical pre-op 3T scan      |
 | 520     | SEEG + ECoG | left       | research 3T protocol      | 
 | 522     | SEEG        | right      | research 3T protocol      |
 | 529     | SEEG        | right      | research 3T protocol      |                                   
