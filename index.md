@@ -62,6 +62,7 @@ Colored spheres correspond to these areas:
 
 WHITE: OUTSIDE (or not localized to any area)
  
+_if all channels are blue, localization information absent_
 
 ![aboutImage](./pics/about.png)
 
