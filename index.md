@@ -35,12 +35,6 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 | [595](./renders/sub-RID0595/index.html) | [596](./renders/sub-RID0596/index.html) | 646                                     | 647                                     | [648](./renders/sub-RID0648/index.html) | 649                                     | 650                                     | 651                                     | 652                                     |                                         |
 
 
-
-- Notes:
-	- 186: Surface reconstruction of pre-implant image failed in Freesurfer. Used the alternative clinical T1 imaging. Linear registration of coordinates failed with alternative imaging. Therefore registered coordinates to the surface file are innacurate.
-	- 194: Channel coordinates and surface reconstruction are correct. 
-	- 476: Channel coordinates and surface reconstruction are correct. 
-
 **Click to view RNS implant:**
 
 |                                            |
@@ -49,6 +43,10 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 |[206](./renders/sub-RID0206_RNS/index.html) | 252                                        | 272                                       | 280                                       |328                                        |
 |334                                         | 337                                        | 
 
+- Notes:
+	- 186: Surface reconstruction of pre-implant image failed in Freesurfer. Used the alternative clinical T1 imaging. Linear registration of coordinates failed with alternative imaging. Therefore registered coordinates to the surface file are innacurate.
+	- 194: Channel coordinates and surface reconstruction are correct. 
+	- 476: Channel coordinates and surface reconstruction are correct. 
 
 # About
 
