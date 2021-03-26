@@ -37,9 +37,9 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 	- 194: Channel coordinates and surface reconstruction are correct. 
 	- 476: Channel coordinates and surface reconstruction are correct. 
 
+**Click to view RNS implant:**
 
-
-|RNS |
+|                                            |
 |:------------------------------------------ |:------------------------------------------ |:------------------------------------------|:------------------------------------------|:------------------------------------------|
 |15                                          | 30                                         | 165                                       | 171                                       |186                                        |
 |[206](./renders/sub-RID0206_RNS/index.html) | 252                                        | 272                                       | 280                                       |328                                        |
