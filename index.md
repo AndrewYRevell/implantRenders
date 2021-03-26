@@ -16,7 +16,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 # Implant Links
 
 
-**Click to view "[Phase II](https://www.pennmedicine.org/for-patients-and-visitors/find-a-program-or-service/neurosurgery/seizures-and-epilepsy/diagnosing-and-evaluation)" implant in the Epilepsy Monitoring Unit (EMU):**
+**Click to view "[Phase II](https://www.pennmedicine.org/for-patients-and-visitors/find-a-program-or-service/neurosurgery/seizures-and-epilepsy/diagnosing-and-evaluation)" implant in the [Epilepsy Monitoring Unit (EMU)](https://www.thedp.com/article/2021/02/penn-medicine-establishes-a-new-epilepsy-monitoring-unit):**
 
 |                                         |
 | :-------------------------------------- | :-------------------------------------- | :-------------------------------------  | :-------------------------------------  | :-------------------------------------  | :-------------------------------------- | :-------------------------------------- | :-------------------------------------  | :-------------------------------------  | :-------------------------------------  |
