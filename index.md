@@ -38,6 +38,14 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 	- 476: Channel coordinates and surface reconstruction are correct. 
 
 
+
+|RNS |
+|:------------------------------------------ |:------------------------------------------ |:------------------------------------------|:------------------------------------------|:------------------------------------------|
+|15                                          | 30                                         | 165                                       | 171                                       |186                                        |
+|[206](./renders/sub-RID0206_RNS/index.html) | 252                                        | 272                                       | 280                                       |328                                        |
+|334                                         | 337                                        | 
+
+
 # About
 
 These renders show implantations of epilepsy patients. Implantations were done for clinical purposes and to capture seizure activity. Click on the subject links in the table above to view the renders. You can adjust your view using your mouse and control settings (see below image). On mobile, toggle off "Brain wireframe" for quicker view adjustments. Click on "Channels" to see the channel label names. Spheres represent implanted electrode channels. The center of each sphere corresponds to the coordinate of each channel. Each spehere is arbitrarily 2.2 mm in radius. The coordinates of each channel is localized to specific brain tissue: gray matter (GM), white matter (WM), cerebrospinal fluid (CSF), or outside the brain area. 
