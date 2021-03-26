@@ -16,7 +16,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 # Implant Links
 
 
-**Click to view implant:**
+**Click to view [Phase II](https://www.pennmedicine.org/for-patients-and-visitors/find-a-program-or-service/neurosurgery/seizures-and-epilepsy/diagnosing-and-evaluation) implant:**
 
 |                                         |
 | :-------------------------------------- | :-------------------------------------- | :-------------------------------------  | :-------------------------------------  | :-------------------------------------  | :-------------------------------------- | :-------------------------------------- | :-------------------------------------  | :-------------------------------------  | :-------------------------------------  |
@@ -35,7 +35,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 | [595](./renders/sub-RID0595/index.html) | [596](./renders/sub-RID0596/index.html) | 646                                     | 647                                     | [648](./renders/sub-RID0648/index.html) | 649                                     | 650                                     | 651                                     | 652                                     |                                         |
 
 
-**Click to view RNS implant:**
+**Click to view [RNS](https://www.epilepsy.com/learn/treating-seizures-and-epilepsy/devices/responsive-neurostimulation-rns) implant:**
 
 |                                            |
 |:------------------------------------------ |:------------------------------------------ |:------------------------------------------|:------------------------------------------|:------------------------------------------|
