@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-**_No identifying patient information is present. The [18 HIPAA-designated](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html) direct identifiers and other indirect identifiers are removed. Vague language is sometimes used to limit all attempts at identification (e.g. why surface reconstruction failed for a specific individual). This webpage is intended to navigate intracranial EEG implants in 3D space only._**
+**_No identifying patient information is present. The 18 [HIPAA-designated](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html) direct identifiers and other indirect identifiers are removed. Vague language is sometimes used to limit all attempts at identification (e.g. why surface reconstruction failed for a specific individual). This webpage is intended to navigate intracranial EEG implants in 3D space only._**
   
 -------------------------------------
 
