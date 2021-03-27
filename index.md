@@ -45,6 +45,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 
 - Notes:
 	- 13: Bilateral ECoG sampling, but only 4 channels on left side (inferior temporal lobe). Grid overlaid on right temporal lobe is correct. Cortical surface of right temporal lobe is correct.
+	- 15: Surface reconstruction failed. Do not know why.
 	- 186: Surface reconstruction of pre-implant image failed in Freesurfer. Used the alternative clinical T1 imaging. Linear registration of coordinates failed with alternative imaging. Therefore registered coordinates to the surface file are incorrect (brain and channels are rotated/translated on different axes).
 	- 194: Channel coordinates and surface reconstruction are correct. 
 	- 476: Channel coordinates and surface reconstruction are correct. 
@@ -88,12 +89,12 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 
 | Subject | Implant     |  Sampling  | T1 scan used for surface  |                                
 | :------ | :---------- | :--------- | :------------------------ |
-| 13      | ECoG        | bilateral  | clinical scan      |
-| 15      |          |    | clinical scan      |
+| 13      | ECoG        | bilateral  | clinical scan             |
+| 15      | ECoG        | bilateral  | clinical scan             |
 | 31      | SEEG        | bilateral  | research 3T protocol      |
 | 131     | SEEG        | left       | clinical scan             |
 | 139     | SEEG        | bilateral  | research 3T protocol      |
-| 146     | SEEG        | bilateral  | clinical scan   |
+| 146     | SEEG        | bilateral  | clinical scan             |
 | 186     | SEEG        | bilateral  | alternative clinical scan   |
 | 194     | SEEG        | bilateral  | research 3T protocol      |
 | 206     | SEEG        | bilateral  | clinical scan   |
@@ -110,8 +111,8 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 365     | SEEG        | bilateral  | research 3T protocol      |
 | 380     | SEEG        | bilateral  | research 3T protocol      |
 | 394     | SEEG        | bilateral  | research 3T protocol      |
-| 405     |          |    | clinical scan      |
-| 412     |          |    | clinical scan      |
+| 405     | SEEG        | bilateral  | clinical scan             |
+| 412     | SEEG        | bilateral  | clinical scan             |
 | 420     | SEEG        | bilateral  | research 3T protocol      |
 | 424     | SEEG        | bilateral  | clinical scan      |
 | 440     | SEEG        | bilateral  | research 3T protocol      |
