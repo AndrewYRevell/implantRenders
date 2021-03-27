@@ -20,7 +20,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 
 |                                         |
 | :-------------------------------------- | :-------------------------------------- | :-------------------------------------  | :-------------------------------------  | :-------------------------------------  | :-------------------------------------- | :-------------------------------------- | :-------------------------------------  | :-------------------------------------  | :-------------------------------------  |
-| [13](./renders/sub-RID0013/index.html)  | [15](./renders/sub-RID0015/index.html)  | 18                                      | 20                                      | 21                                      | 24                                      | 27                                      | 30                                      | [31](./renders/sub-RID0031/index.html)  | 32                                      |
+| [13](./renders/sub-RID0013/index.html)  | [15](./renders/sub-RID0015/index.html)  | [18](./renders/sub-RID0018/index.html)  | 20                                      | 21                                      | 24                                      | 27                                      | 30                                      | [31](./renders/sub-RID0031/index.html)  | 32                                      |
 | 33                                      | 37                                      | 42                                      | 48                                      | 49                                      | 50                                      | 51                                      | 54                                      | 55                                      | 58                                      |
 | 59                                      | 65                                      | 68                                      | 69                                      | 89                                      | 101                                     | 102                                     | 106                                     | 117                                     | [131](./renders/sub-RID0131/index.html) | 
 | [139](./renders/sub-RID0139/index.html) | 142                                     | 143                                     | [146](./renders/sub-RID0146/index.html) | 157                                     | 160                                     | 165                                     | 171                                     | 175                                     | 179                                     |
@@ -28,7 +28,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 | [230](./renders/sub-RID0230/index.html) | [238](./renders/sub-RID0238/index.html) | [240](./renders/sub-RID0240/index.html) | 241                                     | 250                                     | 252                                     | 259                                     | 267                                     | 272                                     | 274                                     |
 | [278](./renders/sub-RID0278/index.html) | [279](./renders/sub-RID0279/index.html) | 280                                     | 294                                     | 295                                     | 296                                     | 307                                     | [309](./renders/sub-RID0309/index.html) | 317                                     | [320](./renders/sub-RID0320/index.html) |
 | 322                                     | 325                                     | 328                                     | 329                                     | 330                                     | 332                                     | 334                                     | 337                                     | 338                                     | [341](./renders/sub-RID0341/index.html) |
-| 356                                     | 357                                     | [365](./renders/sub-RID0365/index.html) | 371                                     | [380](./renders/sub-RID0380/index.html) | 381                                     | 382                                     | 385                                     | 386                                     | 392                                     |
+| 356                                     | 357                                     | [365](./renders/sub-RID0365/index.html) | 371                                     | [380](./renders/sub-RID0380/index.html) | 381                                     | 382                                     | 385                                     | 386                                     | [392](./renders/sub-RID0392/index.html) |
 | [394](./renders/sub-RID0394/index.html) | [405](./renders/sub-RID0405/index.html)  | [412](./renders/sub-RID0412/index.html) | [420](./renders/sub-RID0420/index.html) | [424](./renders/sub-RID0424/index.html)                                     | [440](./renders/sub-RID0440/index.html) | [442](./renders/sub-RID0442/index.html) | [452](./renders/sub-RID0452/index.html) | [454](./renders/sub-RID0454/index.html) | [459](./renders/sub-RID0459/index.html) |
 | [472](./renders/sub-RID0472/index.html) | [475](./renders/sub-RID0475/index.html) | [476](./renders/sub-RID0476/index.html) | [490](./renders/sub-RID0490/index.html) | [502](./renders/sub-RID0502/index.html) | [508](./renders/sub-RID0508/index.html) | [517](./renders/sub-RID0517/index.html) | [520](./renders/sub-RID0520/index.html) | [522](./renders/sub-RID0522/index.html) | [529](./renders/sub-RID0529/index.html) | 
 | 530                                     | [536](./renders/sub-RID0536/index.html) | 560                                     | 562                                     | 566                                     | [572](./renders/sub-RID0572/index.html) | 582                                     | [583](./renders/sub-RID0583/index.html) | 588                                     | 589                                     |
@@ -48,6 +48,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 	- 15: Surface reconstruction failed. Do not know why.
 	- 186: Surface reconstruction of pre-implant image failed in Freesurfer. Used the alternative clinical T1 imaging. Linear registration of coordinates failed with alternative imaging. Therefore registered coordinates to the surface file are incorrect (brain and channels are rotated/translated on different axes).
 	- 194: Channel coordinates and surface reconstruction are correct. 
+	- 386 waiting for freesurfer.
 	- 476: Channel coordinates and surface reconstruction are correct. 
 
 # About
@@ -91,42 +92,44 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | :------ | :---------- | :--------- | :------------------------ |
 | 13      | ECoG        | bilateral  | clinical scan             |
 | 15      | ECoG        | bilateral  | clinical scan             |
+| 18      | ECoG        | bilateral  | clinical scan             |
 | 31      | SEEG        | bilateral  | research 3T protocol      |
 | 131     | SEEG        | left       | clinical scan             |
 | 139     | SEEG        | bilateral  | research 3T protocol      |
 | 146     | SEEG        | bilateral  | clinical scan             |
-| 186     | SEEG        | bilateral  | alternative clinical scan   |
+| 186     | SEEG        | bilateral  | alternative clinical scan |
 | 194     | SEEG        | bilateral  | research 3T protocol      |
-| 206     | SEEG        | bilateral  | clinical scan   |
+| 206     | SEEG        | bilateral  | clinical scan             |
 | 213     | ECoG        | bilateral  | research 3T protocol      |
-| 218     | SEEG        | bilateral  | clinical scan   |
-| 230     | SEEG        | bilateral  | clinical scan   |
-| 238     | SEEG        | bilateral  | clinical scan   |
-| 240     | SEEG        | bilateral  | clinical scan   |
+| 218     | SEEG        | bilateral  | clinical scan             |
+| 230     | SEEG        | bilateral  | clinical scan             |
+| 238     | SEEG        | bilateral  | clinical scan             |
+| 240     | SEEG        | bilateral  | clinical scan             |
 | 278     | SEEG        | bilateral  | research 3T protocol      |
-| 279     | SEEG        | bilateral  | clinical scan |
+| 279     | SEEG        | bilateral  | clinical scan             |
 | 309     | SEEG        | bilateral  | research 3T protocol      |
 | 320     | SEEG        | bilateral  | research 3T protocol      |
 | 341     | SEEG        | bilateral  | research 3T protocol      |
 | 365     | SEEG        | bilateral  | research 3T protocol      |
 | 380     | SEEG        | bilateral  | research 3T protocol      |
+| 392     | SEEG        | bilateral  | clinical scan             |
 | 394     | SEEG        | bilateral  | research 3T protocol      |
 | 405     | SEEG        | bilateral  | clinical scan             |
 | 412     | SEEG        | bilateral  | clinical scan             |
 | 420     | SEEG        | bilateral  | research 3T protocol      |
-| 424     | SEEG        | bilateral  | clinical scan      |
+| 424     | SEEG        | bilateral  | clinical scan             |
 | 440     | SEEG        | bilateral  | research 3T protocol      |
-| 442     | SEEG        | bilateral  | clinical scan      |
-| 452     | SEEG        | bilateral  | clinical scan   |
+| 442     | SEEG        | bilateral  | clinical scan             |
+| 452     | SEEG        | bilateral  | clinical scan             |
 | 454     | SEEG        | bilateral  | research 3T protocol      |
 | 459     | SEEG        | left       | research 3T protocol      |
-| 472     | SEEG        | bilateral  | clinical scan   |
-| 475     | SEEG        | bilateral  | clinical scan   |
+| 472     | SEEG        | bilateral  | clinical scan             |
+| 475     | SEEG        | bilateral  | clinical scan             |
 | 476     | SEEG        | bilateral  | research 3T protocol      |
 | 490     | SEEG        | bilateral  | research 3T protocol      |
 | 502     | SEEG        | bilateral  | research 3T protocol      |
 | 508     | SEEG        | left       | research 3T protocol      |
-| 517     | SEEG        | bilateral  | clinical scan      |
+| 517     | SEEG        | bilateral  | clinical scan             |
 | 520     | SEEG + ECoG | left       | research 3T protocol      | 
 | 522     | SEEG        | right      | research 3T protocol      |
 | 529     | SEEG        | right      | research 3T protocol      |                                   
