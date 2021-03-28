@@ -44,8 +44,8 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 |334                                              | 337                                        | 
 
 - Notes:
-	- 13: Bilateral ECoG sampling, but only 4 channels on left side (inferior temporal lobe). Grid overlaid on right temporal lobe is correct. Cortical surface of right temporal lobe is correct.
-	- 15: Surface reconstruction failed. Do not know why.
+	- 13: Cortical surface of right temporal lobe is correct. Grid overlaid on right temporal lobe is correct.
+	- 15: Surface reconstruction failed. Do not know why (two attempts, missing logfile).
 	- 186: Surface reconstruction of pre-implant image failed in Freesurfer. Used the alternative clinical T1 imaging. Linear registration of coordinates failed with alternative imaging. Therefore registered coordinates to the surface file are incorrect (brain and channels are rotated/translated on different axes).
 	- 194: Channel coordinates and surface reconstruction are correct. 
 	- 386 waiting for freesurfer.
