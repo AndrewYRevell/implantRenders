@@ -26,7 +26,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 | [139](./renders/sub-RID0139/ses-research3Tv03/index.html) | 142                                                       | 143                                                       | [146](./renders/sub-RID0146/ses-implant01/index.html)     | 157                                                             | 160                                                       | 165                                                       | 171                                                       | 175                                                       | 179                                                       |
 | [186](./renders/sub-RID0186/ses-implant01/index.html)     | 190                                                       | 192                                                       | 193                                                       | [194](./renders/sub-RID0194/ses-research3Tv01/index.html)       | [206](./renders/sub-RID0206/ses-implant01/index.html)     | [213](./renders/sub-RID0213/ses-research3Tv01/index.html) | [218](./renders/sub-RID0218/ses-implant01/index.html)     | 222                                                       | 227                                                       |
 | [230](./renders/sub-RID0230/ses-implant01/index.html)     | [238](./renders/sub-RID0238/ses-implant01/index.html)     | [240](./renders/sub-RID0240/ses-implant01/index.html)     | 241                                                       | 250                                                             | 252                                                       | 259                                                       | 267                                                       | 272                                                       | 274                                                       |
-| [278](./renders/sub-RID0278/ses-research3Tv01/index.html) | [279](./renders/sub-RID0279/ses-implant01/index.html)     | 280                                                       | 294                                                       | 295                                                             | 296                                                       | 307                                                       | [309](./renders/sub-RID0309/ses-research3Tv01/index.html) | 317                                                       | [320](./renders/sub-RID0320/ses-research3Tv01/index.html) |
+| [278](./renders/sub-RID0278/ses-research3Tv01/index.html) | [279](./renders/sub-RID0279/ses-implant01/index.html)     | 280                                                       | 294                                                       | 295                                                             | 296                                                       | 307                                                       | [309](./renders/sub-RID0309/ses-research3Tv01/index.html) | [317](./renders/sub-RID0317/ses-implant01/index.html)     | [320](./renders/sub-RID0320/ses-research3Tv01/index.html) |
 | 322                                                       | 325                                                       | 328                                                       | 329                                                       | 330                                                             | 332                                                       | 334                                                       | 337                                                       | 338                                                       | [341](./renders/sub-RID0341/ses-research3Tv03/index.html) |
 | 356                                                       | 357                                                       | [365](./renders/sub-RID0365/ses-research3Tv02/index.html) | 371                                                       | [380](./renders/sub-RID0380/ses-research3Tv02/index.html)       | 381                                                       | 382                                                       | [385](./renders/sub-RID0385/ses-implant01/index.html)     | [386](./renders/sub-RID0386/ses-implant01/index.html)     | [392](./renders/sub-RID0392/ses-implant01/index.html)     |
 | [394](./renders/sub-RID0394/ses-research3Tv02/index.html) | [405](./renders/sub-RID0405/ses-implant01/index.html)     | [412](./renders/sub-RID0412/ses-implant01/index.html)     | [420](./renders/sub-RID0420/ses-research3Tv02/index.html) | [424](./renders/sub-RID0424/ses-implant01/index.html)           | [440](./renders/sub-RID0440/ses-research3Tv02/index.html) | [442](./renders/sub-RID0442/ses-implant01/index.html)     | [452](./renders/sub-RID0452/ses-implant01/index.html)     | [454](./renders/sub-RID0454/ses-research3Tv02/index.html) | [459](./renders/sub-RID0459/ses-research3Tv02/index.html) |
@@ -96,7 +96,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 20      | ECoG        | bilateral  | clinical scan             |
 | 21      | ECoG        | bilateral  | clinical scan             |
 | 24      | ECoG        | left       | clinical scan             |
-| 27      |         |        | clinical scan        |
+| 27      | ECoG        | bilateral  | clinical scan             |
 | 31      | SEEG        | bilateral  | research 3T protocol      |
 | 32      | ECoG        | right      | research 3T protocol      |
 | 131     | SEEG        | left       | clinical scan             |
@@ -113,6 +113,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 278     | SEEG        | bilateral  | research 3T protocol      |
 | 279     | SEEG        | bilateral  | clinical scan             |
 | 309     | SEEG        | bilateral  | research 3T protocol      |
+| 317     |         |   | clinical scan      |
 | 320     | SEEG        | bilateral  | research 3T protocol      |
 | 341     | SEEG        | bilateral  | research 3T protocol      |
 | 365     | SEEG        | bilateral  | research 3T protocol      |
@@ -144,8 +145,8 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 572     | SEEG        | right      | research 3T protocol      |
 | 582     | SEEG        | bilateral  | clinical scan             | 
 | 583     | SEEG        | left       | research 3T protocol      | 
-| 588     |         |        |       | 
-| 589     |         |        | research 3T protocol       | 
+| 588     | SEEG        | bilateral  | clinical scan             | 
+| 589     | SEEG        | left       | research 3T protocol      | 
 | 595     | SEEG        | left       | research 3T protocol      |
 | 596     | SEEG        | left       | research 3T protocol      |
 | 648     | SEEG        | left       | research 3T protocol      |
