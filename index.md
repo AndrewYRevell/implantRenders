@@ -113,7 +113,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 278     | SEEG        | bilateral  | research 3T protocol      |
 | 279     | SEEG        | bilateral  | clinical scan             |
 | 309     | SEEG        | bilateral  | research 3T protocol      |
-| 317     |         |   | clinical scan      |
+| 317     | SEEG        | bilateral  | clinical scan             |
 | 320     | SEEG        | bilateral  | research 3T protocol      |
 | 341     | SEEG        | bilateral  | research 3T protocol      |
 | 365     | SEEG        | bilateral  | research 3T protocol      |
