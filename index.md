@@ -20,7 +20,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 
 |                                         |
 | :-------------------------------------- | :-------------------------------------- | :-------------------------------------  | :-------------------------------------  | :-------------------------------------  | :-------------------------------------- | :-------------------------------------- | :-------------------------------------  | :-------------------------------------  | :-------------------------------------  |
-| [13](./renders/sub-RID0013/index.html)  | [15](./renders/sub-RID0015/index.html)  | [18](./renders/sub-RID0018/index.html)  | 20                                      | 21                                      | 24                                      | 27                                      | 30                                      | [31](./renders/sub-RID0031/index.html)  | 32                                      |
+| [13](./renders/sub-RID0013/index.html)  | [15](./renders/sub-RID0015/index.html)  | [18](./renders/sub-RID0018/index.html)  | [20](./renders/sub-RID0018/index.html)  | 21                                      | 24                                      | 27                                      | 30                                      | [31](./renders/sub-RID0031/index.html)  | 32                                      |
 | 33                                      | 37                                      | 42                                      | 48                                      | 49                                      | 50                                      | 51                                      | 54                                      | 55                                      | 58                                      |
 | 59                                      | 65                                      | 68                                      | 69                                      | 89                                      | 101                                     | 102                                     | 106                                     | 117                                     | [131](./renders/sub-RID0131/index.html) | 
 | [139](./renders/sub-RID0139/index.html) | 142                                     | 143                                     | [146](./renders/sub-RID0146/index.html) | 157                                     | 160                                     | 165                                     | 171                                     | 175                                     | 179                                     |
@@ -93,6 +93,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 13      | ECoG        | bilateral  | clinical scan             |
 | 15      | ECoG        | bilateral  | clinical scan             |
 | 18      | ECoG        | bilateral  | clinical scan             |
+| 20      | ECoG        | bilateral  | clinical scan             |
 | 31      | SEEG        | bilateral  | research 3T protocol      |
 | 131     | SEEG        | left       | clinical scan             |
 | 139     | SEEG        | bilateral  | research 3T protocol      |
@@ -112,7 +113,8 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 341     | SEEG        | bilateral  | research 3T protocol      |
 | 365     | SEEG        | bilateral  | research 3T protocol      |
 | 380     | SEEG        | bilateral  | research 3T protocol      |
-| 380     | SEEG        | bilateral  | clinical scan       |
+| 385     | SEEG        | bilateral  | clinical scan             |
+| 386     | SEEG        | bilateral  | clinical scan             |
 | 392     | SEEG        | bilateral  | clinical scan             |
 | 394     | SEEG        | bilateral  | research 3T protocol      |
 | 405     | SEEG        | bilateral  | clinical scan             |
