@@ -90,77 +90,70 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 
 | Subject | Implant     |  Sampling  | T1 scan used for surface  |                                
 | :------ | :---------- | :--------- | :------------------------ |
-| 13      | ECoG        | bilateral  | clinical scan             |
-| 15      | ECoG        | bilateral  | clinical scan             |
-| 18      | ECoG        | bilateral  | clinical scan             |
-| 20      | ECoG        | bilateral  | clinical scan             |
-| 21      | ECoG        | bilateral  | clinical scan             |
-| 24      | ECoG        | left       | clinical scan             |
-| 27      | ECoG        | bilateral  | clinical scan             |
-| 31      | SEEG        | bilateral  | research 3T protocol      |
-| 32      | ECoG        | right      | research 3T protocol      |
-| 131     | SEEG        | left       | clinical scan             |
-| 139     | SEEG        | bilateral  | research 3T protocol      |
-| 146     | SEEG        | bilateral  | clinical scan             |
-| 186     | SEEG        | bilateral  | alternative clinical scan |
-| 194     | SEEG        | bilateral  | research 3T protocol      |
-| 206     | SEEG        | bilateral  | clinical scan             |
-| 213     | ECoG        | bilateral  | research 3T protocol      |
-| 218     | SEEG        | bilateral  | clinical scan             |
-| 222     |         |   | research 3T protocol          |
-| 227     |         |   | research 3T protocol             |
-| 230     | SEEG        | bilateral  | clinical scan             |
-| 238     | SEEG        | bilateral  | clinical scan             |
-| 240     | SEEG        | bilateral  | clinical scan             |
-| 241     |         |   | clinical scan             |
-| 250     |         |   | clinical scan             |
-| 252     |         |   | clinical scan             |
-| 259     |         |   | clinical scan             |
-| 267     |         |   | clinical scan             |
-| 272     |         |   | clinical scan             |
-| 274     |         |   | clinical scan             |
-| 278     | SEEG        | bilateral  | research 3T protocol      |
-| 279     | SEEG        | bilateral  | clinical scan             |
-| 309     | SEEG        | bilateral  | research 3T protocol      |
-| 317     | SEEG        | bilateral  | clinical scan             |
-| 320     | SEEG        | bilateral  | research 3T protocol      |
-| 341     | SEEG        | bilateral  | research 3T protocol      |
-| 365     | SEEG        | bilateral  | research 3T protocol      |
-| 380     | SEEG        | bilateral  | research 3T protocol      |
-| 385     | SEEG        | bilateral  | clinical scan             |
-| 386     | SEEG        | bilateral  | clinical scan             |
-| 392     | SEEG        | bilateral  | clinical scan             |
-| 394     | SEEG        | bilateral  | research 3T protocol      |
-| 405     | SEEG        | bilateral  | clinical scan             |
-| 412     | SEEG        | bilateral  | clinical scan             |
-| 420     | SEEG        | bilateral  | research 3T protocol      |
-| 424     | SEEG        | bilateral  | clinical scan             |
-| 440     | SEEG        | bilateral  | research 3T protocol      |
-| 442     | SEEG        | bilateral  | clinical scan             |
-| 452     | SEEG        | bilateral  | clinical scan             |
-| 454     | SEEG        | bilateral  | research 3T protocol      |
-| 459     | SEEG        | left       | research 3T protocol      |
-| 472     | SEEG        | bilateral  | clinical scan             |
-| 475     | SEEG        | bilateral  | clinical scan             |
-| 476     | SEEG        | bilateral  | research 3T protocol      |
-| 490     | SEEG        | bilateral  | research 3T protocol      |
-| 502     | SEEG        | bilateral  | research 3T protocol      |
-| 508     | SEEG        | left       | research 3T protocol      |
-| 517     | SEEG        | bilateral  | clinical scan             |
-| 520     | SEEG + ECoG | left       | research 3T protocol      | 
-| 522     | SEEG        | right      | research 3T protocol      |
-| 529     | SEEG        | right      | research 3T protocol      |                                   
-| 536     | SEEG        | bilateral  | research 3T protocol      |
-| 572     | SEEG        | right      | research 3T protocol      |
-| 582     | SEEG        | bilateral  | clinical scan             | 
-| 583     | SEEG        | left       | research 3T protocol      | 
-| 588     | SEEG        | bilateral  | clinical scan             | 
-| 589     | SEEG        | left       | research 3T protocol      | 
-| 595     | SEEG        | left       | research 3T protocol      |
-| 596     | SEEG        | left       | research 3T protocol      |
-| 648     | SEEG        | left       | research 3T protocol      |
-| 651     | SEEG        | left       | clinical scan             |
-| 652     | SEEG        | bilateral  | research 3T protocol      |
+| 13      | ECoG        | bilateral  | clinical                  |
+| 15      | ECoG        | bilateral  | clinical                  |
+| 18      | ECoG        | bilateral  | clinical                  |
+| 20      | ECoG        | bilateral  | clinical                  |
+| 21      | ECoG        | bilateral  | clinical                  |
+| 24      | ECoG        | left       | clinical                  |
+| 27      | ECoG        | bilateral  | clinical                  |
+| 31      | SEEG        | bilateral  | research                  |
+| 32      | ECoG        | right      | research                  |
+| 131     | SEEG        | left       | clinical                  |
+| 139     | SEEG        | bilateral  | research                  |
+| 146     | SEEG        | bilateral  | clinical                  |
+| 186     | SEEG        | bilateral  | clinical                  |
+| 194     | SEEG        | bilateral  | research                  |
+| 206     | SEEG        | bilateral  | clinical                  |
+| 213     | ECoG        | bilateral  | research                  |
+| 218     | SEEG        | bilateral  | clinical                  |
+| 230     | SEEG        | bilateral  | clinical                  |
+| 238     | SEEG        | bilateral  | clinical                  |
+| 240     | SEEG        | bilateral  | clinical                  |
+| 278     | SEEG        | bilateral  | research                  |
+| 279     | SEEG        | bilateral  | clinical                  |
+| 309     | SEEG        | bilateral  | research                  |
+| 317     | SEEG        | bilateral  | clinical                  |
+| 320     | SEEG        | bilateral  | research                  |
+| 341     | SEEG        | bilateral  | research                  |
+| 365     | SEEG        | bilateral  | research                  |
+| 380     | SEEG        | bilateral  | research                  |
+| 385     | SEEG        | bilateral  | clinical                  |
+| 386     | SEEG        | bilateral  | clinical                  |
+| 392     | SEEG        | bilateral  | clinical                  |
+| 394     | SEEG        | bilateral  | research                  |
+| 405     | SEEG        | bilateral  | clinical                  |
+| 412     | SEEG        | bilateral  | clinical                  | 
+| 420     | SEEG        | bilateral  | research                  |
+| 424     | SEEG        | bilateral  | clinical                  |
+| 440     | SEEG        | bilateral  | research                  |
+| 442     | SEEG        | bilateral  | clinical                  |
+| 452     | SEEG        | bilateral  | clinical                  |
+| 454     | SEEG        | bilateral  | research                  |
+| 459     | SEEG        | left       | research                  |
+| 472     | SEEG        | bilateral  | clinical                  |
+| 475     | SEEG        | bilateral  | clinical                  |
+| 476     | SEEG        | bilateral  | research                  |
+| 490     | SEEG        | bilateral  | research                  |
+| 502     | SEEG        | bilateral  | research                  |
+| 508     | SEEG        | left       | research                  |
+| 517     | SEEG        | bilateral  | clinical                  |
+| 520     | SEEG + ECoG | left       | research                  | 
+| 522     | SEEG        | right      | research                  |
+| 529     | SEEG        | right      | research                  |                                   
+| 536     | SEEG        | bilateral  | research                  |
+| 572     | SEEG        | right      | research                  |
+| 582     | SEEG        | bilateral  | clinical                  | 
+| 583     | SEEG        | left       | research                  | 
+| 588     | SEEG        | bilateral  | clinical                  | 
+| 589     | SEEG        | left       | research                  | 
+| 595     | SEEG        | left       | research                  |
+| 596     | SEEG        | left       | research                  |
+| 648     | SEEG        | left       | research                  |
+| 648     | SEEG        | left       | clinical                  |
+| 650     | SEEG        | bilateral  | research                  |
+| 651     | SEEG        | left       | clinical                  |
+| 652     | SEEG        | bilateral  | research                  |
 
 
 
