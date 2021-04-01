@@ -45,12 +45,12 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 
 - Notes:
 	- 13: Cortical surface of right temporal lobe is correct. Grid overlaid on right temporal lobe is correct.
+	- 15: Surface reconstruction failed in Freesurfer.
 	- 30: Missing coordinate files
-	- 15: Surface reconstruction failed in Freesurfer. Do not know why (two attempts, missing logfile).
 	- 186: Initial surface reconstruction of pre-implant image failed. Used the alternative clinical T1 imaging with anisotropic voxels.
 	- 194: Channel coordinates and surface reconstruction are correct. 
-	- 280: Using implant T1. Tissue classification will be incorrect.
-	- 386: Waiting for freesurfer.
+	- 280: Using implant T1. Tissue classification will be incorrect (areas where electrodes are will most likely be classified as CSF because of the holes in the MRI)
+	- 386: Freesurfer stuck as mris_fix_topology.
 	- 476: Channel coordinates and surface reconstruction are correct. 
 
 # About
