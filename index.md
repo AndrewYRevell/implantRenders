@@ -20,7 +20,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 
 |                                                           |
 | :---------------------------------------------------      | :----------------------------------------------------     | :---------------------------------------------------      | :---------------------------------------------------      | :-------------------------------------------------------------  | :----------------------------------------------------     | :----------------------------------------------------     | :-------------------------------------------------------  | :---------------------------------------------------      | :-------------------------------------                    |
-| [13](./renders/sub-RID0013/ses-implant01/index.html)      | 15                                                        | [18](./renders/sub-RID0018/ses-implant01/index.html)      | [20](./renders/sub-RID0020/ses-implant01/index.html)      | [21](./renders/sub-RID0021/ses-implant01/index.html)            | [24](./renders/sub-RID0024/ses-implant01/index.html)      | [27](./renders/sub-RID0027/ses-implant01/index.html)      | 30                                                        | [31](./renders/sub-RID0031/ses-research3Tv00/index.html)  | [32](./renders/sub-RID0032/ses-research3Tv00/index.html)  |   
+| [13](./renders/sub-RID0013/ses-implant01/index.html)      | 15                                                        | [18](./renders/sub-RID0018/ses-implant01/index.html)      | [20](./renders/sub-RID0020/ses-implant01/index.html)      | [21](./renders/sub-RID0021/ses-implant01/index.html)            | [24](./renders/sub-RID0024/ses-implant01/index.html)      | [27](./renders/sub-RID0027/ses-implant01/index.html)      | [30](./renders/sub-RID0030/ses-implant01/index.html)         | [31](./renders/sub-RID0031/ses-research3Tv00/index.html)  | [32](./renders/sub-RID0032/ses-research3Tv00/index.html)  |   
 | 33                                                        | 37                                                        | 42                                                        | 48                                                        | 49                                                              | 50                                                        | 51                                                        | 54                                                        | 55                                                        | 58                                                        |
 | 59                                                        | 65                                                        | 68                                                        | 69                                                        | 89                                                              | 101                                                       | 102                                                       | 106                                                       | 117                                                       | [131](./renders/sub-RID0131/ses-implant01/index.html)     | 
 | [139](./renders/sub-RID0139/ses-research3Tv03/index.html) | 142                                                       | 143                                                       | [146](./renders/sub-RID0146/ses-implant01/index.html)     | 157                                                             | 160                                                       | 165                                                       | 171                                                       | 175                                                       | 179                                                       |
@@ -39,12 +39,13 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 
 |                                                 |
 |:------------------------------------------      |:------------------------------------------ |:------------------------------------------|:------------------------------------------|:------------------------------------------|
-|15                                               | 30                                         | 165                                       | 171                                       |[186](./renders/sub-RID0186/ses-RNS01/index.html) |
+|15                                               | [30](./renders/sub-RID0030/ses-RNS01/index.html) | 165                                       | 171                                       |[186](./renders/sub-RID0186/ses-RNS01/index.html) |
 |[206](./renders/sub-RID0206/ses-RNS01/index.html)| [252](./renders/sub-RID0252/ses-RNS01/index.html) | [272](./renders/sub-RID0272/ses-RNS01/index.html)  | [280](./renders/sub-RID0280/ses-RNS01/index.html)   |[328](./renders/sub-RID0328/ses-RNS01/index.html)   |
 |[334](./renders/sub-RID0337/ses-RNS01/index.html) | [337](./renders/sub-RID0337/ses-RNS01/index.html)  | 
 
 - Notes:
 	- 13: Cortical surface of right temporal lobe is correct. Grid overlaid on right temporal lobe is correct.
+	- 30: Missing coordinate files
 	- 15: Surface reconstruction failed in Freesurfer. Do not know why (two attempts, missing logfile).
 	- 186: Initial surface reconstruction of pre-implant image failed. Used the alternative clinical T1 imaging with anisotropic voxels.
 	- 194: Channel coordinates and surface reconstruction are correct. 
@@ -120,7 +121,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 317     | SEEG        | bilateral  | clinical                  |
 | 320     | SEEG        | bilateral  | research                  |
 | 328     | SEEG        | bilateral  | clinical                  |
-| 334     |         |   | clinical                  |
+| 334     | SEEG        | left       | clinical                  |
 | 337     |         |   | clinical                  |
 | 341     | SEEG        | bilateral  | research                  |
 | 365     | SEEG        | bilateral  | research                  |
