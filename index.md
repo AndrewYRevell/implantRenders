@@ -41,7 +41,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 |:------------------------------------------      |:------------------------------------------ |:------------------------------------------|:------------------------------------------|:------------------------------------------|
 |15                                               | 30                                         | 165                                       | 171                                       |[186](./renders/sub-RID0186/ses-RNS01/index.html) |
 |[206](./renders/sub-RID0206/ses-RNS01/index.html)| 252                                        | 272                                       | 280                                       |328                                        |
-|334                                              | [337]./renders/sub-RID0337/ses-RNS01/index.html)  | 
+|334                                              | [337](./renders/sub-RID0337/ses-RNS01/index.html)  | 
 
 - Notes:
 	- 13: Cortical surface of right temporal lobe is correct. Grid overlaid on right temporal lobe is correct.
