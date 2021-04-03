@@ -117,6 +117,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 278     | SEEG        | bilateral  | research                  |
 | 279     | SEEG        | bilateral  | clinical                  |
 | 280     | SEEG        | bilateral  | implant                   |
+| 294     |         |   | implant                   |
 | 309     | SEEG        | bilateral  | research                  |
 | 317     | SEEG        | bilateral  | clinical                  |
 | 320     | SEEG        | bilateral  | research                  |
@@ -124,8 +125,12 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 334     | SEEG        | left       | clinical                  |
 | 337     |         |   | clinical                  |
 | 341     | SEEG        | bilateral  | research                  |
+| 357     |         |   | implant                   |
 | 365     | SEEG        | bilateral  | research                  |
+| 371     |         |   | implant                   |
 | 380     | SEEG        | bilateral  | research                  |
+| 381     |         |   | implant                   |
+| 382     |         |   | implant                   |
 | 385     | SEEG        | bilateral  | clinical                  |
 | 386     | SEEG        | bilateral  | clinical                  |
 | 392     | SEEG        | bilateral  | clinical                  |
