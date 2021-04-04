@@ -50,6 +50,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 	- 186: Initial surface reconstruction of pre-implant image failed. Used the alternative clinical T1 imaging with anisotropic voxels.
 	- 194: Channel coordinates and surface reconstruction are correct. 
 	- 280: Using implant T1. Tissue classification will be incorrect (areas where electrodes are will most likely be classified as CSF because of the holes in the MRI)
+	- 338: Freesurfer brain extraction, and thus tissue segmentation had large errors - due to poor quality clinical imaging 
 	- 386: Freesurfer stuck as mris_fix_topology.
 	- 476: Channel coordinates and surface reconstruction are correct. 
 
