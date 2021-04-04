@@ -47,12 +47,16 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 	- 13: Cortical surface of right temporal lobe is correct. Grid overlaid on right temporal lobe is correct.
 	- 15: Surface reconstruction failed in Freesurfer.
 	- 30: Missing coordinate files
-	- 186: Initial surface reconstruction of pre-implant image failed. Used the alternative clinical T1 imaging with anisotropic voxels.
+	- 165: Freesurfer stuck in running mris_fix topology. 
+	- 186: Initial surface reconstruction of pre-implant image failed. Used the alternative clinical T1 imaging with very anisotropic voxels (and barely fully covers the lateral parts of brain).
 	- 194: Channel coordinates and surface reconstruction are correct. 
+	- 218: Surface reconstruction failed.
 	- 280: Using implant T1. Tissue classification will be incorrect (areas where electrodes are will most likely be classified as CSF because of the holes in the MRI)
+	- 320: Registration a little off: Brain extraction of clinical T1 to the research 3T is off by some translation/rotation. Thus coordinates are off too.
 	- 338: Freesurfer brain extraction, and thus tissue segmentation had large errors - due to poor quality clinical imaging 
-	- 386: Freesurfer stuck as mris_fix_topology.
+	- 386: Freesurfer stuck in running mris_fix_topology.
 	- 476: Channel coordinates and surface reconstruction are correct. 
+	- 520: Registration a little off: Brain extraction of clinical T1 to the research 3T is off by some translation/rotation. Thus coordinates are off too.
 
 # About
 
@@ -98,13 +102,15 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 18      | ECoG        | bilateral  | clinical                  |
 | 20      | ECoG        | bilateral  | clinical                  |
 | 21      | ECoG        | bilateral  | clinical                  |
-| 24      | ECoG        | left       | clinical                  |
+| 24      | ECoG        | right      | clinical                  |
 | 27      | ECoG        | bilateral  | clinical                  |
+| 30      | ????        | ?????????  | clinical                  |
 | 31      | SEEG        | bilateral  | research                  |
 | 32      | ECoG        | right      | research                  |
 | 131     | SEEG        | left       | clinical                  |
 | 139     | SEEG        | bilateral  | research                  |
 | 146     | SEEG        | bilateral  | clinical                  |
+| 171     | ECoG        | left       | clinical                  |
 | 186     | SEEG        | bilateral  | clinical                  |
 | 194     | SEEG        | bilateral  | research                  |
 | 206     | SEEG        | bilateral  | clinical                  |
@@ -118,25 +124,25 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 278     | SEEG        | bilateral  | research                  |
 | 279     | SEEG        | bilateral  | clinical                  |
 | 280     | SEEG        | bilateral  | implant                   |
-| 294     |         |   | implant                   |
+| 294     | SEEG        | bilateral  | clinical                  |
 | 309     | SEEG        | bilateral  | research                  |
 | 317     | SEEG        | bilateral  | clinical                  |
 | 320     | SEEG        | bilateral  | research                  |
 | 328     | SEEG        | bilateral  | clinical                  |
-| 329     |         |   | clinical                  |
-| 330     |         |   | clinical                  |
-| 332     |         |   | clinical                  |
+| 329     | SEEG        | bilateral  | clinical                  |
+| 330     | SEEG        | bilateral  | clinical                  |
+| 332     | SEEG        | bilateral  | clinical                  |
 | 334     | SEEG        | left       | clinical                  |
-| 337     |         |   | clinical                  |
-| 338     |         |   | clinical                  |
+| 337     | ????        | ?????????  | clinical                  |
+| 338     | SEEG        | bilateral  | clinical                  |
 | 341     | SEEG        | bilateral  | research                  |
-| 356     |         |   | clinical                  |
-| 357     |         |   | implant                   |
+| 356     | SEEG        | bilateral  | clinical                  |
+| 357     | ECoG        | right      | clinical                  |
 | 365     | SEEG        | bilateral  | research                  |
-| 371     |         |   | implant                   |
+| 371     | SEEG        | bilateral  | clinical                  |
 | 380     | SEEG        | bilateral  | research                  |
-| 381     |         |   | implant                   |
-| 382     |         |   | implant                   |
+| 381     | SEEG        | bilateral  | clinical                  |
+| 382     | SEEG        | bilateral  | clinical                  |
 | 385     | SEEG        | bilateral  | clinical                  |
 | 386     | SEEG        | bilateral  | clinical                  |
 | 392     | SEEG        | bilateral  | clinical                  |
@@ -157,10 +163,13 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 502     | SEEG        | bilateral  | research                  |
 | 508     | SEEG        | left       | research                  |
 | 517     | SEEG        | bilateral  | clinical                  |
-| 520     | SEEG + ECoG | left       | research                  | 
+| 520     | ECoG        | left       | research                  | 
 | 522     | SEEG        | right      | research                  |
-| 529     | SEEG        | right      | research                  |                                   
+| 529     | SEEG        | right      | research                  |   
+| 530     | SEEG        | bilateral  | clinical                  |   
 | 536     | SEEG        | bilateral  | research                  |
+| 560     | SEEG        | bilateral  | clinical                  |   
+| 562     | SEEG        | right      | clinical                  |   
 | 566     | SEEG        | left       | research                  |
 | 572     | SEEG        | right      | research                  |
 | 582     | SEEG        | bilateral  | clinical                  | 
