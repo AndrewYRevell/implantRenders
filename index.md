@@ -104,7 +104,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 21      | ECoG        | bilateral  | clinical                  |
 | 24      | ECoG        | right      | clinical                  |
 | 27      | ECoG        | bilateral  | clinical                  |
-| 30      | ????        | ?????????  | clinical                  |
+| 30      | ????        | ??????     | clinical                  |
 | 31      | SEEG        | bilateral  | research                  |
 | 32      | ECoG        | right      | research                  |
 | 131     | SEEG        | left       | clinical                  |
@@ -120,15 +120,15 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 238     | SEEG        | bilateral  | clinical                  |
 | 240     | SEEG        | bilateral  | clinical                  |
 | 252     | SEEG        | left       | clinical                  |
-| 267     |         |   | clinical                  |
+| 267     | SEEG        | bilateral  | clinical                  |
 | 272     | SEEG        | bilateral  | clinical                  |
-| 274     |         |   | clinical                  |
+| 274     | SEEG        | right      | clinical                  |
 | 278     | SEEG        | bilateral  | research                  |
 | 279     | SEEG        | bilateral  | clinical                  |
 | 280     | SEEG        | bilateral  | implant                   |
 | 294     | SEEG        | bilateral  | clinical                  |
-| 295     |         |   | clinical                  |
-| 296     |         |   | clinical                  |
+| 295     | ECoG        | left       | clinical                  |
+| 296     | SEEG        | bilateral  | clinical                  |
 | 309     | SEEG        | bilateral  | research                  |
 | 307     | SEEG        | bilateral  | clinical                  |
 | 317     | SEEG        | bilateral  | clinical                  |
@@ -140,7 +140,7 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 330     | SEEG        | bilateral  | clinical                  |
 | 332     | SEEG        | bilateral  | clinical                  |
 | 334     | SEEG        | left       | clinical                  |
-| 337     | ????        | ?????????  | clinical                  |
+| 337     | ????        | ??????     | clinical                  |
 | 338     | SEEG        | bilateral  | clinical                  |
 | 341     | SEEG        | bilateral  | research                  |
 | 356     | SEEG        | bilateral  | clinical                  |
