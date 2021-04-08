@@ -23,7 +23,7 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 | [13](./renders/sub-RID0013/ses-implant01/index.html)      | [15](./renders/sub-RID0015/ses-implant01/index.html)  | [18](./renders/sub-RID0018/ses-implant01/index.html)      | [20](./renders/sub-RID0020/ses-implant01/index.html)      | [21](./renders/sub-RID0021/ses-implant01/index.html)            | [24](./renders/sub-RID0024/ses-implant01/index.html)      | [27](./renders/sub-RID0027/ses-implant01/index.html)      | [30](./renders/sub-RID0030/ses-implant01/index.html)         | [31](./renders/sub-RID0031/ses-research3Tv00/index.html)  | [32](./renders/sub-RID0032/ses-research3Tv00/index.html)  |   
 | 33                                                        | 37                                                        | 42                                                        | 48                                                        | 49                                                              | 50                                                        | 51                                                        | 54                                                        | 55                                                        | 58                                                        |
 | 59                                                        | 65                                                        | 68                                                        | 69                                                        | 89                                                              | 101                                                       | 102                                                       | 106                                                       | 117                                                       | [131](./renders/sub-RID0131/ses-implant01/index.html)     | 
-| [139](./renders/sub-RID0139/ses-research3Tv03/index.html) | 142                                                       | 143                                                       | [146](./renders/sub-RID0146/ses-implant01/index.html)     | 157                                                             | 160                                                       | 165                                                       | [171](./renders/sub-RID0171/ses-implant01/index.html)  | 175                                                       | 179                                                       |
+| [139](./renders/sub-RID0139/ses-research3Tv03/index.html) | 142                                                       | [143](./renders/sub-RID0143/ses-research3Tv00/index.html)   | [146](./renders/sub-RID0146/ses-implant01/index.html)     | 157                                                             | 160                                                       | 165                                                       | [171](./renders/sub-RID0171/ses-implant01/index.html)  | 175                                                       | 179                                                       |
 | [186](./renders/sub-RID0186/ses-implant01/index.html)     | [190](./renders/sub-RID0190/ses-research3Tv00/index.html)  | [192](./renders/sub-RID0192/ses-implant01/index.html)   | [190](./renders/sub-RID0190/ses-implant01/index.html)  | [194](./renders/sub-RID0194/ses-research3Tv01/index.html)       | [206](./renders/sub-RID0206/ses-implant01/index.html)     | [213](./renders/sub-RID0213/ses-research3Tv01/index.html) | [218](./renders/sub-RID0218/ses-implant01/index.html)     | [222](./renders/sub-RID0222/ses-implant01/index.html)  | [227](./renders/sub-RID0227/ses-implant01/index.html)   |
 | [230](./renders/sub-RID0230/ses-implant01/index.html)     | [238](./renders/sub-RID0238/ses-implant01/index.html)     | [240](./renders/sub-RID0240/ses-implant01/index.html)     | [241](./renders/sub-RID0241/ses-implant01/index.html)  | [250](./renders/sub-RID0250/ses-implant01/index.html) | [252](./renders/sub-RID0252/ses-implant01/index.html)   | 259                                                       | [267](./renders/sub-RID0267/ses-implant01/index.html)     | [272](./renders/sub-RID0272/ses-implant01/index.html)  | [274](./renders/sub-RID0274/ses-implant01/index.html)  |
 | [278](./renders/sub-RID0278/ses-research3Tv01/index.html) | [279](./renders/sub-RID0279/ses-implant01/index.html)     | [280](./renders/sub-RID0280/ses-implant01/index.html)  | [294](./renders/sub-RID0294/ses-implant01/index.html) | [295](./renders/sub-RID0295/ses-implant01/index.html)   | [296](./renders/sub-RID0296/ses-implant01/index.html)    | [307](./renders/sub-RID0307/ses-implant01/index.html) | [309](./renders/sub-RID0309/ses-research3Tv01/index.html) | [317](./renders/sub-RID0317/ses-implant01/index.html)     | [320](./renders/sub-RID0320/ses-research3Tv01/index.html) |
@@ -59,7 +59,9 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 	- 520: Registration a little off: Brain extraction of clinical T1 to the research 3T is off by some translation/rotation. Thus coordinates are off too.
 	- 192: failed
 	- 241: failed
-	- 250
+	- 250: failed
+	- 179: failed
+	- 157: failed
 	
 # About
 
@@ -112,8 +114,11 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 32      | ECoG        | right      | research                  |
 | 131     | SEEG        | left       | clinical                  |
 | 139     | SEEG        | bilateral  | research                  |
+| 143     |         |   | research                  |
 | 146     | SEEG        | bilateral  | clinical                  |
+| 160     |         |        | clinical                  |
 | 171     | ECoG        | left       | clinical                  |
+| 175     |         |        | clinical                  |
 | 186     | SEEG        | bilateral  | clinical                  |
 | 190     |         |   | research                  |
 | 192     |         |   | clinical                  |
