@@ -116,11 +116,11 @@ Figure legend: Electrode localization and Tissue Segmentation. Each channel is l
 | 37      |         |       |                   |
 | 42      |         |       |                   |
 | 48      |         |       |                   |
-| 49      |         |       | clinical                  |
-| 50      |         |       | research                  |
-| 51      |         |       | research                  |
-| 54      |         |       | clinical                  |
-| 55      |         |       | clinical                  |
+| 49      | ECoG        | left       | clinical                  |
+| 50      | ECoG        | right      | research                  |
+| 51      | ECoG        | bilateral  | research                  |
+| 54      | ECoG        | bilateral  | clinical                  |
+| 55      | ECoG        | bilateral  | clinical                  |
 | 58      | ECoG        | bilateral  | clinical                  |
 | 59      | SEEG        | bilateral  | research                  |
 | 65      | ECoG        | left       | clinical                  |
