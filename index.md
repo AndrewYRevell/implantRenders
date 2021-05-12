@@ -39,9 +39,9 @@ Made by Andrew Revell (Fifth-year MD/PhD student at Penn):
 
 |                                                 |
 |:------------------------------------------      |:------------------------------------------ |:------------------------------------------|:------------------------------------------|:------------------------------------------|
-|[15](./renders/sub-RID0015/ses-RNS01/index.html)  | [30](./renders/sub-RID0030/ses-RNS01/index.html) | 165                                       | [171](./renders/sub-RID0171/ses-RNS01/index.html) |[186](./renders/sub-RID0186/ses-RNS01/index.html) |
-|[206](./renders/sub-RID0206/ses-RNS01/index.html)| [252](./renders/sub-RID0252/ses-RNS01/index.html) | [272](./renders/sub-RID0272/ses-RNS01/index.html)  | [280](./renders/sub-RID0280/ses-RNS01/index.html)   |[328](./renders/sub-RID0328/ses-RNS01/index.html)   |
-|[334](./renders/sub-RID0337/ses-RNS01/index.html) | [337](./renders/sub-RID0337/ses-RNS01/index.html)  | 
+|[84](./renders/sub-RID0015/ses-RNS01/index.html)  | [96](./renders/sub-RID0030/ses-RNS01/index.html) | 108                                       | [121](./renders/sub-RID0171/ses-RNS01/index.html) |[127](./renders/sub-RID0186/ses-RNS01/index.html) |
+|[143](./renders/sub-RID0206/ses-RNS01/index.html)| [131](./renders/sub-RID0252/ses-RNS01/index.html) | [128](./renders/sub-RID0272/ses-RNS01/index.html)  | [137](./renders/sub-RID0280/ses-RNS01/index.html)   |[153](./renders/sub-RID0328/ses-RNS01/index.html)   |
+|[147](./renders/sub-RID0337/ses-RNS01/index.html) | [156](./renders/sub-RID0337/ses-RNS01/index.html)  | 
 
 - Notes:
 	- 13: Cortical surface of right temporal lobe is correct. Grid overlaid on right temporal lobe is correct.
