@@ -1,3 +1,5 @@
+Please go to https://andyrevell.github.io/implantRenders/ for the latest updates!
+
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 Made by Andy Revell (MD/PhD student at Penn)    ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
